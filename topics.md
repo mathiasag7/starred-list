@@ -248,6 +248,7 @@
 
 ## css 
 
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
 - [adamghill/dj-angles](https://github.com/adamghill/dj-angles) - Adds more bracket angles to Django templates &lt;/&gt;
 - [open-loadr/loadr](https://github.com/open-loadr/loadr) - Loadr is an efficient solution for seamlessly loading large images in HTML, with a minified size of under 1 KB.
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
@@ -487,6 +488,7 @@
 
 ## hacktoberfest 
 
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [informatici/openhospital](https://github.com/informatici/openhospital) - OH - Open Hospital is a free and open-source Electronic Health Record (EHR) software application. This repository is used to build its releases.
@@ -513,6 +515,7 @@
 
 ## html 
 
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
 - [adamghill/dj-angles](https://github.com/adamghill/dj-angles) - Adds more bracket angles to Django templates &lt;/&gt;
 - [open-loadr/loadr](https://github.com/open-loadr/loadr) - Loadr is an efficient solution for seamlessly loading large images in HTML, with a minified size of under 1 KB.
 - [Xzya/django-web-components](https://github.com/Xzya/django-web-components) - A simple way to create reusable template components in Django.
@@ -552,6 +555,7 @@
 
 ## javascript 
 
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
 - [open-loadr/loadr](https://github.com/open-loadr/loadr) - Loadr is an efficient solution for seamlessly loading large images in HTML, with a minified size of under 1 KB.
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
