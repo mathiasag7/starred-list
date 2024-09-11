@@ -731,6 +731,7 @@
 
 ## others 
 
+- [evansd/whitenoise](https://github.com/evansd/whitenoise) - Radically simplified static file serving for Python web apps
 - [pinax/django-mailer](https://github.com/pinax/django-mailer) - mail queuing and management for the Django web framework
 - [un1t/django-cleanup](https://github.com/un1t/django-cleanup) - Automatically deletes old file for FileField and ImageField. It also deletes files on models instance deletion.
 - [jazzband/django-widget-tweaks](https://github.com/jazzband/django-widget-tweaks) - Tweak the form field rendering in templates, not in python-level form definitions. CSS classes and HTML attributes can be altered.
