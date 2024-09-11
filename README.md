@@ -136,6 +136,7 @@
 
 ## Python 
 
+- [evansd/whitenoise](https://github.com/evansd/whitenoise) - Radically simplified static file serving for Python web apps
 - [pinax/django-mailer](https://github.com/pinax/django-mailer) - mail queuing and management for the Django web framework
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [un1t/django-cleanup](https://github.com/un1t/django-cleanup) - Automatically deletes old file for FileField and ImageField. It also deletes files on models instance deletion.
