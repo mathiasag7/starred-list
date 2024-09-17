@@ -732,6 +732,7 @@
 
 ## others 
 
+- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive user's focus across the page
 - [evansd/whitenoise](https://github.com/evansd/whitenoise) - Radically simplified static file serving for Python web apps
 - [pinax/django-mailer](https://github.com/pinax/django-mailer) - mail queuing and management for the Django web framework
 - [un1t/django-cleanup](https://github.com/un1t/django-cleanup) - Automatically deletes old file for FileField and ImageField. It also deletes files on models instance deletion.
