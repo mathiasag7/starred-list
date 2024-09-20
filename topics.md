@@ -302,7 +302,7 @@
 - [ebertti/django-admin-easy](https://github.com/ebertti/django-admin-easy) - Collection of admin fields and decorators to help to create computed or custom fields more friendly and easy way
 - [Tobi-De/django-litestream](https://github.com/Tobi-De/django-litestream) - Django integration with litestream, a standalone streaming replication tool for SQLite.
 - [spookylukey/django-paypal](https://github.com/spookylukey/django-paypal) - A pluggable Django application for integrating PayPal Payments Standard or Payments Pro
-- [wrabit/django-cotton](https://github.com/wrabit/django-cotton) - Bringing component based design to Django templates
+- [wrabit/django-cotton](https://github.com/wrabit/django-cotton) - Modern UI Composition for Django
 - [RamezIssac/django-slick-reporting](https://github.com/RamezIssac/django-slick-reporting) - The Reporting Engine for Django. Create dashboards and standalone Reports and Charts.
 - [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
 - [fabiocaccamo/django-treenode](https://github.com/fabiocaccamo/django-treenode) - :deciduous_tree: probably the best abstract model/admin for your tree based stuff.
@@ -523,7 +523,6 @@
 - [adamghill/dj-angles](https://github.com/adamghill/dj-angles) - Adds more bracket angles to Django templates &lt;/&gt;
 - [open-loadr/loadr](https://github.com/open-loadr/loadr) - Loadr is an efficient solution for seamlessly loading large images in HTML, with a minified size of under 1 KB.
 - [Xzya/django-web-components](https://github.com/Xzya/django-web-components) - A simple way to create reusable template components in Django.
-- [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
 - [WhyNotHugo/django-renderpdf](https://github.com/WhyNotHugo/django-renderpdf) - 📄 Django app to render django templates as PDF files.
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
@@ -656,7 +655,6 @@
 
 - [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) - A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
 - [Alir3z4/html2text](https://github.com/Alir3z4/html2text) - Convert HTML to Markdown-formatted text.
-- [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
 - [adamghill/coltrane](https://github.com/adamghill/coltrane) - A minimal app framework for content sites.
 
 ## material-design 
@@ -897,7 +895,7 @@
 - [sdispater/pendulum](https://github.com/sdispater/pendulum) - Python datetimes made easy
 - [spookylukey/django-paypal](https://github.com/spookylukey/django-paypal) - A pluggable Django application for integrating PayPal Payments Standard or Payments Pro
 - [ofek/pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
-- [wrabit/django-cotton](https://github.com/wrabit/django-cotton) - Bringing component based design to Django templates
+- [wrabit/django-cotton](https://github.com/wrabit/django-cotton) - Modern UI Composition for Django
 - [RamezIssac/django-slick-reporting](https://github.com/RamezIssac/django-slick-reporting) - The Reporting Engine for Django. Create dashboards and standalone Reports and Charts.
 - [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
 - [fabiocaccamo/django-treenode](https://github.com/fabiocaccamo/django-treenode) - :deciduous_tree: probably the best abstract model/admin for your tree based stuff.
