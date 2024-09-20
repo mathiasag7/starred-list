@@ -148,7 +148,7 @@
 - [westerveltco/django-simple-nav](https://github.com/westerveltco/django-simple-nav) - A simple, flexible, and extensible navigation menu for Django
 - [spookylukey/django-paypal](https://github.com/spookylukey/django-paypal) - A pluggable Django application for integrating PayPal Payments Standard or Payments Pro
 - [nedbat/coveragepy](https://github.com/nedbat/coveragepy) - The code coverage tool for Python
-- [wrabit/django-cotton](https://github.com/wrabit/django-cotton) - Bringing component based design to Django templates
+- [wrabit/django-cotton](https://github.com/wrabit/django-cotton) - Modern UI Composition for Django
 - [django-tenants/django-tenants](https://github.com/django-tenants/django-tenants) - Django tenants using PostgreSQL Schemas
 - [ivelum/djangoql](https://github.com/ivelum/djangoql) - Advanced search language for Django
 - [craigds/django-typed-models](https://github.com/craigds/django-typed-models) - polymorphic django models using automatic type-field downcasting
