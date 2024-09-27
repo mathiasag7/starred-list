@@ -503,7 +503,7 @@
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
 - [jazzband/django-dbbackup](https://github.com/jazzband/django-dbbackup) - Management commands to help backup and restore your project database and media files
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and user management for the passkey era.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Passwordless-First Authentication APIs & Embeddable UI Components. Convert Your Visitors into Users.
 - [PyCQA/autoflake](https://github.com/PyCQA/autoflake) - Removes unused imports and unused variables as reported by pyflakes
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
