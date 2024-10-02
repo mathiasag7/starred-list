@@ -55,7 +55,7 @@
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Passwordless-First Authentication APIs & Embeddable UI Components. Convert Your Visitors into Users.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - The complete Authentication and User Management solution for developers.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 
 ## HTML 
