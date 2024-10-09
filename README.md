@@ -34,6 +34,7 @@
 ## C++ 
 
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 
 ## CSS 
 
@@ -56,7 +57,6 @@
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) - The complete Authentication and User Management solution for developers.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 
 ## HTML 
 
@@ -233,7 +233,7 @@
 - [sybrex/django-instagram-profile](https://github.com/sybrex/django-instagram-profile) - Django package to sync and display personal Instagram media
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [raphaelm/django-scopes](https://github.com/raphaelm/django-scopes) - Safely separate multiple tenants in a Django database
-- [Tobi-De/falco](https://github.com/Tobi-De/falco) - Enhance your Django developer experience: CLI and Guides for the Modern Django Developer.
+- [falcopackages/falco-cli](https://github.com/falcopackages/falco-cli) - Enhance your Django developer experience: CLI and Guides for the Modern Django Developer.
 - [carltongibson/django-template-partials](https://github.com/carltongibson/django-template-partials) - Reusable named inline partials for the Django Template Language.
 - [Opus10/django-pghistory](https://github.com/Opus10/django-pghistory) - Track historical events to Django models using Postgres triggers.
 - [justquick/django-activity-stream](https://github.com/justquick/django-activity-stream) - Generate generic activity streams from the actions on your site. Users can follow any actors' activities for personalized streams.
