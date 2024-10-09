@@ -332,7 +332,7 @@
 - [sybrex/django-instagram-profile](https://github.com/sybrex/django-instagram-profile) - Django package to sync and display personal Instagram media
 - [raphaelm/django-scopes](https://github.com/raphaelm/django-scopes) - Safely separate multiple tenants in a Django database
 - [mkalioby/django-mfa2](https://github.com/mkalioby/django-mfa2) - A Django app that handles MFA, it supports TOTP, U2F, FIDO2 U2F (Webauthn),  Email Token and Trusted Devices
-- [Tobi-De/falco](https://github.com/Tobi-De/falco) - Enhance your Django developer experience: CLI and Guides for the Modern Django Developer.
+- [falcopackages/falco-cli](https://github.com/falcopackages/falco-cli) - Enhance your Django developer experience: CLI and Guides for the Modern Django Developer.
 - [Opus10/django-pghistory](https://github.com/Opus10/django-pghistory) - Track historical events to Django models using Postgres triggers.
 - [noripyt/django-cachalot](https://github.com/noripyt/django-cachalot) - No effort, no worry, maximum performance.
 - [anymail/django-anymail](https://github.com/anymail/django-anymail) - Django email backends and webhooks for Amazon SES, Brevo (Sendinblue), MailerSend, Mailgun, Mailjet, Postmark, Postal, Resend, SendGrid, SparkPost, Unisender Go and more
