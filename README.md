@@ -34,7 +34,6 @@
 ## C++ 
 
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 
 ## CSS 
 
@@ -57,6 +56,7 @@
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) - The complete Authentication and User Management solution for developers.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 
 ## HTML 
 
@@ -153,7 +153,7 @@
 - [westerveltco/django-simple-nav](https://github.com/westerveltco/django-simple-nav) - A simple, flexible, and extensible navigation menu for Django
 - [spookylukey/django-paypal](https://github.com/spookylukey/django-paypal) - A pluggable Django application for integrating PayPal Payments Standard or Payments Pro
 - [nedbat/coveragepy](https://github.com/nedbat/coveragepy) - The code coverage tool for Python
-- [wrabit/django-cotton](https://github.com/wrabit/django-cotton) - Enables Modern UI Composition in Django
+- [wrabit/django-cotton](https://github.com/wrabit/django-cotton) - Enabling Modern UI Composition in Django
 - [django-tenants/django-tenants](https://github.com/django-tenants/django-tenants) - Django tenants using PostgreSQL Schemas
 - [ivelum/djangoql](https://github.com/ivelum/djangoql) - Advanced search language for Django
 - [craigds/django-typed-models](https://github.com/craigds/django-typed-models) - polymorphic django models using automatic type-field downcasting
