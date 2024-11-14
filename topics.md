@@ -884,6 +884,7 @@
 
 ## postgresql 
 
+- [citusdata/pg_cron](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
