@@ -918,7 +918,7 @@
 - [jazzband/django-auditlog](https://github.com/jazzband/django-auditlog) - A Django app that keeps a log of changes made to an object.
 - [jawah/niquests](https://github.com/jawah/niquests) - “Safest, Fastest, Easiest, and Most advanced” Python HTTP Client. Production Ready! Drop-in replacement for Requests. HTTP/1.1, HTTP/2, and HTTP/3 supported. With WebSocket, and SSE!
 - [ebertti/django-admin-easy](https://github.com/ebertti/django-admin-easy) - Collection of admin fields and decorators to help to create computed or custom fields more friendly and easy way
-- [sdispater/pendulum](https://github.com/sdispater/pendulum) - Python datetimes made easy
+- [python-pendulum/pendulum](https://github.com/python-pendulum/pendulum) - Python datetimes made easy
 - [spookylukey/django-paypal](https://github.com/spookylukey/django-paypal) - A pluggable Django application for integrating PayPal Payments Standard or Payments Pro
 - [ofek/pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
 - [wrabit/django-cotton](https://github.com/wrabit/django-cotton) - Enabling Modern UI Composition in Django
@@ -1016,7 +1016,7 @@
 
 ## python3 
 
-- [sdispater/pendulum](https://github.com/sdispater/pendulum) - Python datetimes made easy
+- [python-pendulum/pendulum](https://github.com/python-pendulum/pendulum) - Python datetimes made easy
 - [gruns/icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [julianwachholz/django-guest-user](https://github.com/julianwachholz/django-guest-user) - A Django app that allows visitors to interact with your site as a guest user without requiring registration.
