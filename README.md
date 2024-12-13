@@ -16,6 +16,7 @@
 - [JavaScript](#javascript)
 - [Makefile](#makefile)
 - [Others](#others)
+- [PHP](#php)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -141,6 +142,10 @@
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [PyHAT-stack/awesome-python-htmx](https://github.com/PyHAT-stack/awesome-python-htmx) - A curated list of things related to python-based web development using htmx
 - [mitchtabian/HOWTO-django-channels-daphne](https://github.com/mitchtabian/HOWTO-django-channels-daphne) - A how-to document outlining how to publish a django website equipped with WebSockets using Django Channels.
+
+## PHP 
+
+- [html5blank/html5blank](https://github.com/html5blank/html5blank) - :construction: Powerful shell for rapidly building your WordPress projects
 
 ## Python 
 
