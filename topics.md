@@ -280,6 +280,7 @@
 
 ## database 
 
+- [dimitri/pgloader](https://github.com/dimitri/pgloader) - Migrate to PostgreSQL in a single command!
 - [Tobi-De/django-litestream](https://github.com/Tobi-De/django-litestream) - Django integration with litestream, a standalone streaming replication tool for SQLite.
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [3YOURMIND/django-migration-linter](https://github.com/3YOURMIND/django-migration-linter) - :rocket: Detect backward incompatible migrations for your django project
@@ -698,6 +699,7 @@
 
 ## mysql 
 
+- [dimitri/pgloader](https://github.com/dimitri/pgloader) - Migrate to PostgreSQL in a single command!
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [3YOURMIND/django-migration-linter](https://github.com/3YOURMIND/django-migration-linter) - :rocket: Detect backward incompatible migrations for your django project
@@ -754,6 +756,7 @@
 
 ## others 
 
+- [websockets/wscat](https://github.com/websockets/wscat) - WebSocket cat
 - [html5blank/html5blank](https://github.com/html5blank/html5blank) - :construction: Powerful shell for rapidly building your WordPress projects
 - [maykinmedia/dual-listbox](https://github.com/maykinmedia/dual-listbox) - A simple dual listbox build in plain Javascript and some simple styling. (no other libraries of frameworks required)
 - [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
@@ -893,6 +896,7 @@
 
 ## postgresql 
 
+- [dimitri/pgloader](https://github.com/dimitri/pgloader) - Migrate to PostgreSQL in a single command!
 - [citusdata/pg_cron](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
@@ -1111,6 +1115,7 @@
 
 ## sqlite 
 
+- [dimitri/pgloader](https://github.com/dimitri/pgloader) - Migrate to PostgreSQL in a single command!
 - [Tobi-De/django-litestream](https://github.com/Tobi-De/django-litestream) - Django integration with litestream, a standalone streaming replication tool for SQLite.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
