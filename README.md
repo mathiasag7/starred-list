@@ -158,6 +158,7 @@
 
 ## Python 
 
+- [bhch/django-jsonform](https://github.com/bhch/django-jsonform) - A better, user-friendly JSON editing form field for Django admin. Also supports Postgres ArrayField.
 - [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a robust data generator for Python that can produce a wide range of fake data in multiple languages.
 - [dymmond/edgy](https://github.com/dymmond/edgy) - 🔥 The perfect ORM to work with complex databases 🔥
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
