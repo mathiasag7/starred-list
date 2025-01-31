@@ -311,6 +311,7 @@
 
 ## django 
 
+- [bhch/django-jsonform](https://github.com/bhch/django-jsonform) - A better, user-friendly JSON editing form field for Django admin. Also supports Postgres ArrayField.
 - [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development
 - [pretix/pretix](https://github.com/pretix/pretix) - Ticket shop application for conferences, festivals, concerts, tech events, shows, exhibitions, workshops, barcamps, etc.
 - [jazzband/django-auditlog](https://github.com/jazzband/django-auditlog) - A Django app that keeps a log of changes made to an object.
@@ -942,6 +943,7 @@
 
 ## python 
 
+- [bhch/django-jsonform](https://github.com/bhch/django-jsonform) - A better, user-friendly JSON editing form field for Django admin. Also supports Postgres ArrayField.
 - [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a robust data generator for Python that can produce a wide range of fake data in multiple languages.
 - [dymmond/edgy](https://github.com/dymmond/edgy) - 🔥 The perfect ORM to work with complex databases 🔥
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
