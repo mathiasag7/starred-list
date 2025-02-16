@@ -317,7 +317,7 @@
 
 - [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System
 - [bhch/django-jsonform](https://github.com/bhch/django-jsonform) - A better, user-friendly JSON editing form field for Django admin. Also supports Postgres ArrayField.
-- [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development
+- [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Elevate your Django admin with a stunning modern interface, powerful features, and seamless user experience - without compromising functionality.
 - [pretix/pretix](https://github.com/pretix/pretix) - Ticket shop application for conferences, festivals, concerts, tech events, shows, exhibitions, workshops, barcamps, etc.
 - [jazzband/django-auditlog](https://github.com/jazzband/django-auditlog) - A Django app that keeps a log of changes made to an object.
 - [adamghill/dj-angles](https://github.com/adamghill/dj-angles) - Transpile HTML to the Django Template Language &lt;/&gt;
@@ -968,7 +968,7 @@
 - [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a robust data generator for Python that can produce a wide range of fake data in multiple languages.
 - [dymmond/edgy](https://github.com/dymmond/edgy) - 🔥 The perfect ORM to work with complex databases 🔥
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
-- [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development
+- [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Elevate your Django admin with a stunning modern interface, powerful features, and seamless user experience - without compromising functionality.
 - [pretix/pretix](https://github.com/pretix/pretix) - Ticket shop application for conferences, festivals, concerts, tech events, shows, exhibitions, workshops, barcamps, etc.
 - [jazzband/django-auditlog](https://github.com/jazzband/django-auditlog) - A Django app that keeps a log of changes made to an object.
 - [jawah/niquests](https://github.com/jawah/niquests) - “Safest, Fastest, Easiest, and Most advanced” Python HTTP Client. Production Ready! Drop-in replacement for Requests. HTTP/1.1, HTTP/2, and HTTP/3 supported. With WebSocket, and SSE! Be free of Reques
@@ -1196,7 +1196,7 @@
 
 ## tailwindcss 
 
-- [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development
+- [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Elevate your Django admin with a stunning modern interface, powerful features, and seamless user experience - without compromising functionality.
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [danihodovic/django-allauth-ui](https://github.com/danihodovic/django-allauth-ui) - Nice looking templates for django-allauth
