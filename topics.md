@@ -18,6 +18,7 @@
 - [awesome-list](#awesome-list)
 - [aws](#aws)
 - [azure](#azure)
+- [bash](#bash)
 - [bootstrap](#bootstrap)
 - [bot](#bot)
 - [chatbot](#chatbot)
@@ -100,6 +101,7 @@
 - [package-manager](#package-manager)
 - [php](#php)
 - [postgresql](#postgresql)
+- [powershell](#powershell)
 - [privacy](#privacy)
 - [programming](#programming)
 - [python](#python)
@@ -212,6 +214,10 @@
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2025. with learning resources
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
+
+## bash 
+
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
 ## bootstrap 
 
@@ -958,6 +964,10 @@
 - [SectorLabs/django-postgres-extra](https://github.com/SectorLabs/django-postgres-extra) - Bringing all of PostgreSQL's awesomeness to Django.
 - [Tobi-De/sse_relay_server](https://github.com/Tobi-De/sse_relay_server) - An SSE Relay Service: Perfect for Adding Real-Time Features to Your Django Project Without Introducing ASGI or Async Code.
 
+## powershell 
+
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+
 ## privacy 
 
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
@@ -1124,6 +1134,7 @@
 
 ## rust 
 
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
 - [ofek/pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
