@@ -133,6 +133,7 @@
 - [telegram](#telegram)
 - [terminal](#terminal)
 - [testing](#testing)
+- [text-to-speech](#text-to-speech)
 - [typescript](#typescript)
 - [vue](#vue)
 - [vuejs](#vuejs)
@@ -875,7 +876,6 @@
 - [meilisearch/meilisearch-python](https://github.com/meilisearch/meilisearch-python) - Python wrapper for the Meilisearch API
 - [jazzband/django-constance](https://github.com/jazzband/django-constance) - Dynamic Django settings.
 - [respondcreate/django-versatileimagefield](https://github.com/respondcreate/django-versatileimagefield) - A drop-in replacement for django's ImageField that provides a flexible, intuitive and easily-extensible interface for quickly creating new images from the one assigned to the field.
-- [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 - [kraiz/django-crontab](https://github.com/kraiz/django-crontab) - dead simple crontab powered job scheduling for django.
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
 - [peterbe/premailer](https://github.com/peterbe/premailer) - Turns CSS blocks into style attributes
@@ -1277,6 +1277,10 @@
 - [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) - Testinfra test your infrastructures
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+
+## text-to-speech 
+
+- [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 
 ## typescript 
 
