@@ -247,7 +247,7 @@
 - [peterbe/premailer](https://github.com/peterbe/premailer) - Turns CSS blocks into style attributes
 - [Alir3z4/html2text](https://github.com/Alir3z4/html2text) - Convert HTML to Markdown-formatted text.
 - [py-moneyed/py-moneyed](https://github.com/py-moneyed/py-moneyed) - Provides Currency and Money classes for use in your Python code.
-- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
+- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host, or use our SaaS at https://app.flagsmith.com.
 - [saxix/django-adminactions](https://github.com/saxix/django-adminactions) - collection of useful  django actions to use with  ModelAdmin or AdminSite.
 - [fdemmer/django-weasyprint](https://github.com/fdemmer/django-weasyprint) - A Django class-based view generating PDF resposes using WeasyPrint
 - [instaloader/instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
