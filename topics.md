@@ -999,6 +999,7 @@
 
 ## python 
 
+- [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [SethMMorton/natsort](https://github.com/SethMMorton/natsort) - Simple yet flexible natural sorting in Python.
 - [lcfd/trak](https://github.com/lcfd/trak) - Keep a record of the time you dedicate to your projects. ⚠️ Under HEAVY active development ⚠️
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
