@@ -479,7 +479,7 @@
 
 ## finance 
 
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [apache/fineract](https://github.com/apache/fineract) - Apache Fineract
 - [arrobalytics/django-ledger](https://github.com/arrobalytics/django-ledger) - Django Ledger is a double entry accounting system and financial analysis engine built on the Django Web Framework.
 
@@ -987,7 +987,7 @@
 - [procrastinate-org/procrastinate](https://github.com/procrastinate-org/procrastinate) - PostgreSQL-based Task Queue for Python
 - [bruin-data/ingestr](https://github.com/bruin-data/ingestr) - ingestr is a CLI tool to copy data between any databases with a single command seamlessly.
 - [jazzband/django-dbbackup](https://github.com/jazzband/django-dbbackup) - Management commands to help backup and restore your project database and media files
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [AmbitionEng/django-pgtrigger](https://github.com/AmbitionEng/django-pgtrigger) - Write Postgres triggers for your Django models
 - [SectorLabs/django-postgres-extra](https://github.com/SectorLabs/django-postgres-extra) - Bringing all of PostgreSQL's awesomeness to Django.
@@ -1167,7 +1167,7 @@
 
 ## ruby 
 
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 
 ## rust 
 
