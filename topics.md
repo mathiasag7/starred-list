@@ -934,7 +934,7 @@
 - [voronind/awesome-slugify](https://github.com/voronind/awesome-slugify) - Python flexible slugify function
 - [stefanfoulis/django-phonenumber-field](https://github.com/stefanfoulis/django-phonenumber-field) - A django model and form field for normalised phone numbers using python-phonenumbers
 - [zostera/django-bootstrap5](https://github.com/zostera/django-bootstrap5) - Bootstrap 5 for Django
-- [getsentry/spotlight](https://github.com/getsentry/spotlight) - Your Universal Debug Toolbar
+- [getsentry/spotlight](https://github.com/getsentry/spotlight) - Debuggability Elevated
 - [CodeByZach/pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site.
 - [adamghill/django-rich-logging](https://github.com/adamghill/django-rich-logging) - A prettier way to see Django requests while developing.
 - [yunojuno/django-user-visit](https://github.com/yunojuno/django-user-visit) - Django app for recording daily user visits
