@@ -347,6 +347,7 @@
 
 ## django 
 
+- [brack3t/django-braces](https://github.com/brack3t/django-braces) - Reusable, generic mixins for Django
 - [neutronX/django-markdownx](https://github.com/neutronX/django-markdownx) - Comprehensive Markdown plugin built for Django
 - [django-commons/django-typer](https://github.com/django-commons/django-typer) - Use Typer (type hints) to define the interface for your Django management commands.
 - [adamchainz/djade](https://github.com/adamchainz/djade) - A Django template formatter.
@@ -1034,6 +1035,7 @@
 
 ## python 
 
+- [brack3t/django-braces](https://github.com/brack3t/django-braces) - Reusable, generic mixins for Django
 - [neutronX/django-markdownx](https://github.com/neutronX/django-markdownx) - Comprehensive Markdown plugin built for Django
 - [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Modern datetime library for Python
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
