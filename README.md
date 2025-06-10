@@ -165,6 +165,7 @@
 
 ## Python 
 
+- [brack3t/django-braces](https://github.com/brack3t/django-braces) - Reusable, generic mixins for Django
 - [neutronX/django-markdownx](https://github.com/neutronX/django-markdownx) - Comprehensive Markdown plugin built for Django
 - [apple/ml-fastvlm](https://github.com/apple/ml-fastvlm) - This repository contains the official implementation of "FastVLM: Efficient Vision Encoding for Vision Language Models" - CVPR 2025
 - [nolze/msoffcrypto-tool](https://github.com/nolze/msoffcrypto-tool) - Python tool and library for decrypting and encrypting MS Office files using passwords or other keys
