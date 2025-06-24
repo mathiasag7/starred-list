@@ -80,7 +80,6 @@
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [farridav/django-jazzmin](https://github.com/farridav/django-jazzmin) - Jazzy theme for Django
-- [mkalioby/django-mfa2](https://github.com/mkalioby/django-mfa2) - A Django app that handles MFA, it supports TOTP, U2F, FIDO2 U2F (Webauthn),  Email Token and Trusted Devices
 - [Tobi-De/htmx_extensions](https://github.com/Tobi-De/htmx_extensions) - A registry of htmx extensions, both official and third-party.
 - [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
 - [SamHerbert/SVG-Loaders](https://github.com/SamHerbert/SVG-Loaders) - Loading icons and small animations built with pure SVG.
@@ -291,6 +290,7 @@
 - [sybrex/django-instagram-profile](https://github.com/sybrex/django-instagram-profile) - Django package to sync and display personal Instagram media
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [raphaelm/django-scopes](https://github.com/raphaelm/django-scopes) - Safely separate multiple tenants in a Django database
+- [mkalioby/django-mfa2](https://github.com/mkalioby/django-mfa2) - A Django app that handles MFA, it supports TOTP, U2F, FIDO2 U2F (Webauthn),  Email Token and Trusted Devices
 - [falcopackages/falco-cli](https://github.com/falcopackages/falco-cli) - Enhance your Django developer experience: CLI and Guides for the Modern Django Developer.
 - [carltongibson/django-template-partials](https://github.com/carltongibson/django-template-partials) - Reusable named inline partials for the Django Template Language.
 - [AmbitionEng/django-pghistory](https://github.com/AmbitionEng/django-pghistory) - Track historical events to Django models using Postgres triggers.
@@ -358,7 +358,7 @@
 - [jrief/django-admin-sortable2](https://github.com/jrief/django-admin-sortable2) - Generic drag-and-drop ordering for objects in the Django admin interface
 - [jazzband/django-newsletter](https://github.com/jazzband/django-newsletter) - An email newsletter application for the Django web application framework, including an extended admin interface, web (un)subscription, dynamic e-mail templates, an archive and HTML email support.
 - [jazzband/django-defender](https://github.com/jazzband/django-defender) - A simple super fast django reusable app that blocks people from brute forcing login attempts
-- [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload in Python.
+- [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload for Python, written in Rust
 - [kuzmoyev/google-calendar-simple-api](https://github.com/kuzmoyev/google-calendar-simple-api) - Pythonic wrapper for the Google Calendar API
 - [jazzband/django-eav2](https://github.com/jazzband/django-eav2) - Django EAV 2 - EAV storage for modern Django
 - [Dresdn/django-tenant-users](https://github.com/Dresdn/django-tenant-users) - 
