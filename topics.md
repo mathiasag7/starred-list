@@ -876,6 +876,8 @@
 
 ## others 
 
+- [more-itertools/more-itertools](https://github.com/more-itertools/more-itertools) - More routines for operating on iterables, beyond itertools
+- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
 - [apple/ml-fastvlm](https://github.com/apple/ml-fastvlm) - This repository contains the official implementation of "FastVLM: Efficient Vision Encoding for Vision Language Models" - CVPR 2025
@@ -1060,6 +1062,8 @@
 
 ## python 
 
+- [15r10nk/canonical-imports](https://github.com/15r10nk/canonical-imports) - canonical-imports follows your imports and finds out where the things you are importing are actually defined
+- [repo-helper/hatch-requirements-txt](https://github.com/repo-helper/hatch-requirements-txt) - Hatchling plugin to read project dependencies from requirements.txt
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [brack3t/django-braces](https://github.com/brack3t/django-braces) - Reusable, generic mixins for Django
 - [neutronX/django-markdownx](https://github.com/neutronX/django-markdownx) - Comprehensive Markdown plugin built for Django
