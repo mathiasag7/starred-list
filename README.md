@@ -15,6 +15,7 @@
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jupyter Notebook](#jupyter-notebook)
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Others](#others)
@@ -144,6 +145,10 @@
 - [django-request/django-request](https://github.com/django-request/django-request) - django-request is a statistics module for django. It stores requests in a database for admins to see, it can also be used to get statistics on who is online etc.
 - [mikeckennedy/server-hot-reload](https://github.com/mikeckennedy/server-hot-reload) - Include in your web projects for dev-time auto reloading of web browser when any change is detected in content.
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
+
+## Jupyter Notebook 
+
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 
 ## MDX 
 
