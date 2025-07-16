@@ -884,6 +884,7 @@
 
 ## others 
 
+- [aimedey19/django-ai-translate](https://github.com/aimedey19/django-ai-translate) - AI-powered automatic translation for Django `.po` files.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
