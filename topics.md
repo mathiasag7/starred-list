@@ -26,6 +26,7 @@
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [cli](#cli)
+- [cms](#cms)
 - [code](#code)
 - [computer-science](#computer-science)
 - [config](#config)
@@ -279,6 +280,10 @@
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
+
+## cms 
+
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 
 ## code 
 
