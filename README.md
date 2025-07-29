@@ -98,6 +98,7 @@
 
 ## JavaScript 
 
+- [mike-rambil/Advanced-Git](https://github.com/mike-rambil/Advanced-Git) - Collaborative cheatsheet for GIT
 - [caioariede/django-location-field](https://github.com/caioariede/django-location-field) - Location field and widget for Django. It supports Google Maps, OpenStreetMap and Mapbox
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
