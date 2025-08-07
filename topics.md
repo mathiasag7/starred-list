@@ -1026,7 +1026,7 @@
 - [Dresdn/django-tenant-users](https://github.com/Dresdn/django-tenant-users) - 
 - [fpgmaas/awesome-python](https://github.com/fpgmaas/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [etianen/django-reversion](https://github.com/etianen/django-reversion) - django-reversion is an extension to the Django web framework that provides version control for model instances.
-- [seyyedaliayati/django-fcm-sample-project](https://github.com/seyyedaliayati/django-fcm-sample-project) - The aim of this repository is to provide a step-by-step guide and a basic project sample to implement FCM (Firebase Cloud Messaging) feature into a django-based project.
+- [cpt9m0/django-fcm-sample-project](https://github.com/cpt9m0/django-fcm-sample-project) - The aim of this repository is to provide a step-by-step guide and a basic project sample to implement FCM (Firebase Cloud Messaging) feature into a django-based project.
 - [django-extensions/django-extensions](https://github.com/django-extensions/django-extensions) - This is a repository for collecting global custom management extensions for the Django Framework.
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 - [elapouya/django-listing](https://github.com/elapouya/django-listing) - Listing, table, with toolbars, automatic search and insert forms and much more for Django
