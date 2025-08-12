@@ -98,6 +98,7 @@
 
 ## JavaScript 
 
+- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv–from the creator of `dotenv`
 - [williamtroup/Calendar.js](https://github.com/williamtroup/Calendar.js) - 📅 A javascript drag & drop event calendar, that is fully responsive and compatible with all modern browsers.
 - [mike-rambil/Advanced-Git](https://github.com/mike-rambil/Advanced-Git) - Collaborative cheatsheet for GIT
 - [caioariede/django-location-field](https://github.com/caioariede/django-location-field) - Location field and widget for Django. It supports Google Maps, OpenStreetMap and Mapbox
