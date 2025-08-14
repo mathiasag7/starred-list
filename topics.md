@@ -501,6 +501,7 @@
 
 ## docker 
 
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting numerous document formats into PDF files, and more!
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
@@ -834,6 +835,7 @@
 
 ## monitoring 
 
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [metalogico/django-sonar](https://github.com/metalogico/django-sonar) - The missing debug tool for django
 - [mwarkentin/django-watchman](https://github.com/mwarkentin/django-watchman) - django-watchman exposes a status endpoint for your backing services like databases, caches, etc.
 - [revsys/django-health-check](https://github.com/revsys/django-health-check) - a pluggable app that runs a full check on the deployment, using a number of plugins to check e.g. database, queue server, celery processes, etc.
@@ -1313,6 +1315,7 @@
 
 ## self-hosted 
 
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -1467,6 +1470,7 @@
 
 ## webapp 
 
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 
 ## website 
