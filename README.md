@@ -29,6 +29,7 @@
 - [TypeScript](#typescript)
 - [Vue](#vue)
 - [XSLT](#xslt)
+- [YAML](#yaml)
 
 ## C 
 
@@ -454,7 +455,6 @@
 ## Rust 
 
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - Horizontal scaling for PostgreSQL with automatic sharding.
 - [adamchainz/djade](https://github.com/adamchainz/djade) - A Django template formatter.
@@ -527,6 +527,10 @@
 ## XSLT 
 
 - [auvipy/uml-to-django](https://github.com/auvipy/uml-to-django) - This tool automatically generates the Django model and admin interface from a UML class diagram.
+
+## YAML 
+
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 
 
 ## License
