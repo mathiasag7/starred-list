@@ -27,6 +27,7 @@
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TypeScript](#typescript)
+- [Vim Script](#vim-script)
 - [Vue](#vue)
 - [XSLT](#xslt)
 - [YAML](#yaml)
@@ -71,7 +72,7 @@
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Privacy-first Customer Identity and Access Management (CIAM) for modern apps. Open source alternative to Auth0, Cognito, Clerk, Descope, Stytch.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Modern Authentication—On Your Terms. Open source alternative to Auth0, Cognito, Clerk, Descope, Stytch.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 
 ## HTML 
@@ -182,6 +183,7 @@
 
 ## Python 
 
+- [coderedcorp/coderedcms](https://github.com/coderedcorp/coderedcms) - Wagtail + CodeRed Extensions enabling rapid development of marketing-focused websites.
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [djpeacher/django-chronos](https://github.com/djpeacher/django-chronos) - Django middleware that shows you how fast your pages load, right in your browser.
@@ -519,6 +521,10 @@
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+
+## Vim Script 
+
+- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
 ## Vue 
 
