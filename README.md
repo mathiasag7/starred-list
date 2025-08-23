@@ -30,7 +30,6 @@
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [XSLT](#xslt)
-- [YAML](#yaml)
 
 ## C 
 
@@ -183,6 +182,7 @@
 
 ## Python 
 
+- [plutoprint/plutoprint](https://github.com/plutoprint/plutoprint) - A Python Library for Generating PDFs and Images from HTML, powered by PlutoBook
 - [coderedcorp/coderedcms](https://github.com/coderedcorp/coderedcms) - Wagtail + CodeRed Extensions enabling rapid development of marketing-focused websites.
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
@@ -457,6 +457,7 @@
 ## Rust 
 
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - Horizontal scaling for PostgreSQL with automatic sharding.
 - [adamchainz/djade](https://github.com/adamchainz/djade) - A Django template formatter.
@@ -533,10 +534,6 @@
 ## XSLT 
 
 - [auvipy/uml-to-django](https://github.com/auvipy/uml-to-django) - This tool automatically generates the Django model and admin interface from a UML class diagram.
-
-## YAML 
-
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 
 
 ## License
