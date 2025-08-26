@@ -946,6 +946,7 @@
 
 ## others 
 
+- [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Claude Code, with realtime voice, encryption and fully featured
 - [atomiks/tippyjs](https://github.com/atomiks/tippyjs) - Tooltip, popover, dropdown, and menu library
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [djpeacher/django-chronos](https://github.com/djpeacher/django-chronos) - Django middleware that shows you how fast your pages load, right in your browser.
