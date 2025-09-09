@@ -185,6 +185,7 @@
 
 ## Python 
 
+- [saxix/django-admin-extra-buttons](https://github.com/saxix/django-admin-extra-buttons) - 
 - [franciscobmacedo/lucide](https://github.com/franciscobmacedo/lucide) - Use lucide icons in your Django and Jinja templates
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [plutoprint/plutoprint](https://github.com/plutoprint/plutoprint) - A Python Library for Generating PDFs and Images from HTML, powered by PlutoBook
