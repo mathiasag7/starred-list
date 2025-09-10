@@ -185,6 +185,9 @@
 
 ## Python 
 
+- [adamchainz/django-minify-html](https://github.com/adamchainz/django-minify-html) - Use minify-html, the extremely fast HTML + JS + CSS minifier, with Django.
+- [ramprasathmk/keylogger](https://github.com/ramprasathmk/keylogger) - A simple python based Key-Logger project in Cyber Security
+- [rq/django-rq](https://github.com/rq/django-rq) - A simple app that provides django integration for RQ (Redis Queue)
 - [saxix/django-admin-extra-buttons](https://github.com/saxix/django-admin-extra-buttons) - 
 - [franciscobmacedo/lucide](https://github.com/franciscobmacedo/lucide) - Use lucide icons in your Django and Jinja templates
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
