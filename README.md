@@ -186,6 +186,7 @@
 
 ## Python 
 
+- [cowrie/cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot https://docs.cowrie.org/
 - [adamchainz/django-minify-html](https://github.com/adamchainz/django-minify-html) - Use minify-html, the extremely fast HTML + JS + CSS minifier, with Django.
 - [ramprasathmk/keylogger](https://github.com/ramprasathmk/keylogger) - A simple python based Key-Logger project in Cyber Security
 - [rq/django-rq](https://github.com/rq/django-rq) - A simple app that provides django integration for RQ (Redis Queue)
@@ -315,7 +316,7 @@
 - [adamchainz/django-mysql](https://github.com/adamchainz/django-mysql) - :dolphin: :horse: Extensions to Django for use with MySQL/MariaDB
 - [goinnn/django-multiselectfield](https://github.com/goinnn/django-multiselectfield) - A Multiple Choice model field
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
-- [Archmonger/django-dbbackup](https://github.com/Archmonger/django-dbbackup) - Management commands to help backup and restore your project database and media files
+- [Archmonger/django-dbbackup](https://github.com/Archmonger/django-dbbackup) - Backup and restore your Django database and media
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [mwilliamson/spur.py](https://github.com/mwilliamson/spur.py) - Run commands and manipulate files locally or over SSH using the same interface
 - [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
