@@ -186,6 +186,7 @@
 
 ## Python 
 
+- [jazzband/django-pipeline](https://github.com/jazzband/django-pipeline) - Pipeline is an asset packaging library for Django.
 - [cowrie/cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot https://docs.cowrie.org/
 - [adamchainz/django-minify-html](https://github.com/adamchainz/django-minify-html) - Use minify-html, the extremely fast HTML + JS + CSS minifier, with Django.
 - [ramprasathmk/keylogger](https://github.com/ramprasathmk/keylogger) - A simple python based Key-Logger project in Cyber Security
