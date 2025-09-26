@@ -671,7 +671,7 @@
 ## hacktoberfest 
 
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
-- [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Claude Code, with realtime voice, encryption and fully featured
+- [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System
