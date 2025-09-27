@@ -426,6 +426,7 @@
 
 ## django 
 
+- [adamchainz/django-watchfiles](https://github.com/adamchainz/django-watchfiles) - Make Django’s autoreloader more efficient by watching for changes with watchfiles.
 - [adamchainz/django-minify-html](https://github.com/adamchainz/django-minify-html) - Use minify-html, the extremely fast HTML + JS + CSS minifier, with Django.
 - [rq/django-rq](https://github.com/rq/django-rq) - A simple app that provides django integration for RQ (Redis Queue)
 - [saxix/django-admin-extra-buttons](https://github.com/saxix/django-admin-extra-buttons) - 
