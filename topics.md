@@ -443,6 +443,7 @@
 
 ## django 
 
+- [CuriousLearner/django-postgres-anonymizer](https://github.com/CuriousLearner/django-postgres-anonymizer) - Django integration for PostgreSQL Anonymizer extension
 - [adamchainz/django-watchfiles](https://github.com/adamchainz/django-watchfiles) - Make Django’s autoreloader more efficient by watching for changes with watchfiles.
 - [adamchainz/django-minify-html](https://github.com/adamchainz/django-minify-html) - Use minify-html, the extremely fast HTML + JS + CSS minifier, with Django.
 - [rq/django-rq](https://github.com/rq/django-rq) - A simple app that provides django integration for RQ (Redis Queue)
@@ -692,6 +693,7 @@
 
 ## hacktoberfest 
 
+- [CuriousLearner/django-postgres-anonymizer](https://github.com/CuriousLearner/django-postgres-anonymizer) - Django integration for PostgreSQL Anonymizer extension
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
@@ -1023,10 +1025,10 @@
 
 ## others 
 
+- [p-sto/presentations](https://github.com/p-sto/presentations) - Collection of my presentations
 - [timonweb/Django-manage.py-anywhere](https://github.com/timonweb/Django-manage.py-anywhere) - Run manage.py commands  from anywhere. Finds the closest to current path manage.py file and runs commands against it.
 - [DRYTRIX/TimeTracker](https://github.com/DRYTRIX/TimeTracker) - 
 - [rgwood/systemctl-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs
-- [CuriousLearner/django-postgres-anonymizer](https://github.com/CuriousLearner/django-postgres-anonymizer) - Django integration for PostgreSQL Anonymizer extension
 - [Goldziher/html-to-markdown](https://github.com/Goldziher/html-to-markdown) - HTML to markdown converter
 - [tazama-lf/Full-Stack-Docker-Tazama](https://github.com/tazama-lf/Full-Stack-Docker-Tazama) - 
 - [jazzband/django-pipeline](https://github.com/jazzband/django-pipeline) - Pipeline is an asset packaging library for Django.
@@ -1186,6 +1188,7 @@
 
 ## postgresql 
 
+- [CuriousLearner/django-postgres-anonymizer](https://github.com/CuriousLearner/django-postgres-anonymizer) - Django integration for PostgreSQL Anonymizer extension
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - Horizontal scaling for PostgreSQL with automatic sharding.
