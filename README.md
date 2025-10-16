@@ -193,6 +193,7 @@
 
 ## Python 
 
+- [p-sto/presentations](https://github.com/p-sto/presentations) - Collection of my presentations
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [timonweb/Django-manage.py-anywhere](https://github.com/timonweb/Django-manage.py-anywhere) - Run manage.py commands  from anywhere. Finds the closest to current path manage.py file and runs commands against it.
 - [ikamensh/flynt](https://github.com/ikamensh/flynt) - A tool to automatically convert old string literal formatting to f-strings
@@ -223,7 +224,6 @@
 - [more-itertools/more-itertools](https://github.com/more-itertools/more-itertools) - More routines for operating on iterables, beyond itertools
 - [15r10nk/canonical-imports](https://github.com/15r10nk/canonical-imports) - canonical-imports follows your imports and finds out where the things you are importing are actually defined
 - [repo-helper/hatch-requirements-txt](https://github.com/repo-helper/hatch-requirements-txt) - Hatchling plugin to read project dependencies from requirements.txt
-- [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [brack3t/django-braces](https://github.com/brack3t/django-braces) - Reusable, generic mixins for Django
 - [neutronX/django-markdownx](https://github.com/neutronX/django-markdownx) - Comprehensive Markdown plugin built for Django
 - [apple/ml-fastvlm](https://github.com/apple/ml-fastvlm) - This repository contains the official implementation of "FastVLM: Efficient Vision Encoding for Vision Language Models" - CVPR 2025
@@ -535,6 +535,7 @@
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
+- [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [MichaelXF/js-confuser](https://github.com/MichaelXF/js-confuser) - JS-Confuser is a JavaScript obfuscation tool to make your programs *impossible* to read.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A lightweight, dependency-free JavaScript library for guiding user focus across the page.
