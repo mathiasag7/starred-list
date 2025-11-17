@@ -1193,7 +1193,7 @@
 - [sysid/sse-starlette](https://github.com/sysid/sse-starlette) - 
 - [SvenskaSpel/locust-plugins](https://github.com/SvenskaSpel/locust-plugins) - A set of useful plugins/extensions for Locust
 - [etianen/django-watson](https://github.com/etianen/django-watson) - Full-text multi-table search application for Django. Easy to install and use, with good performance.
-- [matthewwithanm/django-imagekit](https://github.com/matthewwithanm/django-imagekit) - Automated image processing for Django. Currently v4.0
+- [matthewwithanm/django-imagekit](https://github.com/matthewwithanm/django-imagekit) - Automated image processing for Django. Currently v6.0
 - [mitchtabian/HOWTO-django-channels-daphne](https://github.com/mitchtabian/HOWTO-django-channels-daphne) - A how-to document outlining how to publish a django website equipped with WebSockets using Django Channels.
 
 ## package-manager 
