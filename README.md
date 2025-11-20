@@ -195,6 +195,7 @@
 
 ## Python 
 
+- [ambient-innovation/boa-restrictor](https://github.com/ambient-innovation/boa-restrictor) - A Python and Django linting library
 - [pelican-plugins/minify](https://github.com/pelican-plugins/minify) - Pelican plugin that minifies HTML, CSS, and JavaScript
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [p-sto/presentations](https://github.com/p-sto/presentations) - Collection of my presentations
