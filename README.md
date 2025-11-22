@@ -195,6 +195,7 @@
 
 ## Python 
 
+- [Bogdanp/dramatiq](https://github.com/Bogdanp/dramatiq) - A fast and reliable background task processing library for Python 3.
 - [ambient-innovation/boa-restrictor](https://github.com/ambient-innovation/boa-restrictor) - A Python and Django linting library
 - [pelican-plugins/minify](https://github.com/pelican-plugins/minify) - Pelican plugin that minifies HTML, CSS, and JavaScript
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
