@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [agent](#agent)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
@@ -172,6 +173,11 @@
 - [windows](#windows)
 - [youtube](#youtube)
 - [zsh](#zsh)
+
+## agent 
+
+- [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
+- [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 
 ## ai 
 
