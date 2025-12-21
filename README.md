@@ -324,7 +324,7 @@
 - [jazzband/django-constance](https://github.com/jazzband/django-constance) - Dynamic Django settings.
 - [respondcreate/django-versatileimagefield](https://github.com/respondcreate/django-versatileimagefield) - A drop-in replacement for django's ImageField that provides a flexible, intuitive and easily-extensible interface for quickly creating new images from the one assigned to the field.
 - [mwarkentin/django-watchman](https://github.com/mwarkentin/django-watchman) - django-watchman exposes a status endpoint for your backing services like databases, caches, etc.
-- [revsys/django-health-check](https://github.com/revsys/django-health-check) - a pluggable app that runs a full check on the deployment, using a number of plugins to check e.g. database, queue server, celery processes, etc.
+- [codingjoe/django-health-check](https://github.com/codingjoe/django-health-check) - Pluggable health checks for Django applications
 - [kraiz/django-crontab](https://github.com/kraiz/django-crontab) - dead simple crontab powered job scheduling for django.
 - [peterbe/premailer](https://github.com/peterbe/premailer) - Turns CSS blocks into style attributes
 - [Alir3z4/html2text](https://github.com/Alir3z4/html2text) - Convert HTML to Markdown-formatted text.
