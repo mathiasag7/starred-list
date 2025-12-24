@@ -474,6 +474,7 @@
 
 ## django 
 
+- [CuriousLearner/django-phone-verify](https://github.com/CuriousLearner/django-phone-verify) - A Django app to support phone number verification using security code / One-Time-Password (OTP) sent via SMS.
 - [dakrauth/django-swingtime](https://github.com/dakrauth/django-swingtime) - 📆  Event and occurrence scheduling application for Django
 - [usmanhalalit/DjangoRealtime](https://github.com/usmanhalalit/DjangoRealtime) - Realtime browser events, SSE for Django + PostgreSQL
 - [suitenumerique/meet](https://github.com/suitenumerique/meet) - Open source video conferencing app powered by LiveKit.
@@ -742,6 +743,7 @@
 
 ## hacktoberfest 
 
+- [CuriousLearner/django-phone-verify](https://github.com/CuriousLearner/django-phone-verify) - A Django app to support phone number verification using security code / One-Time-Password (OTP) sent via SMS.
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
