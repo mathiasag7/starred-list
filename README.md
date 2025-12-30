@@ -81,7 +81,7 @@
 
 ## HTML 
 
-- [Goldziher/html-to-markdown](https://github.com/Goldziher/html-to-markdown) - High performance and CommonMark compliant HTML to Markdown converter
+- [kreuzberg-dev/html-to-markdown](https://github.com/kreuzberg-dev/html-to-markdown) - High performance and CommonMark compliant HTML to Markdown converter. Maintained by the Kreuzberg.dev team. Kreuzberg.dev is a fast, polyglot document intelligence engine with a Rust core. It extracts
 - [horilla-opensource/horilla](https://github.com/horilla-opensource/horilla) - Horilla is a free and open source HR and CRM software.
 - [Ayushparikh-code/Web-dev-mini-projects](https://github.com/Ayushparikh-code/Web-dev-mini-projects) - The repository contains the list of awesome✨ & cool web development beginner-friendly✌️ projects!
 - [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template) - A free simple responsive HTML email template
@@ -376,7 +376,6 @@
 - [mbi/django-rosetta](https://github.com/mbi/django-rosetta) - Rosetta is a Django application that eases the translation process of your Django projects
 - [Xzya/django-web-components](https://github.com/Xzya/django-web-components) - A simple way to create reusable template components in Django.
 - [adamghill/django-rich-logging](https://github.com/adamghill/django-rich-logging) - A prettier way to see Django requests while developing.
-- [0xCrunchyy/hypergen](https://github.com/0xCrunchyy/hypergen) - HyperGen - Optimized inference and fine-tuning framework for diffusion (image & video) models. Up to 3x faster & 80% less VRAM.
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 - [fabiocaccamo/django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) - :superhero: :zap: django's default admin interface with superpowers - customizable themes, popup windows replaced by modals and many other features.
 - [yunojuno/django-user-visit](https://github.com/yunojuno/django-user-visit) - Django app for recording daily user visits
@@ -577,6 +576,7 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [getsentry/spotlight](https://github.com/getsentry/spotlight) - Sentry for Development
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
+- [0xCrunchyy/10x](https://github.com/0xCrunchyy/10x) - ⚡️ 10x - Up to 20x faster AI coding with multi-step Superpowers. Open-source agent with smart model routing, BYOK, fully self-hosted.
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 
