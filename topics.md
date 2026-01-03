@@ -476,6 +476,7 @@
 
 ## django 
 
+- [mfogel/django-timezone-field](https://github.com/mfogel/django-timezone-field) - A Django app providing DB, form, and REST framework fields for zoneinfo and pytz timezone objects.
 - [CuriousLearner/django-phone-verify](https://github.com/CuriousLearner/django-phone-verify) - A Django app to support phone number verification using security code / One-Time-Password (OTP) sent via SMS.
 - [dakrauth/django-swingtime](https://github.com/dakrauth/django-swingtime) - 📆  Event and occurrence scheduling application for Django
 - [usmanhalalit/DjangoRealtime](https://github.com/usmanhalalit/DjangoRealtime) - Realtime browser events, SSE for Django + PostgreSQL
@@ -701,6 +702,7 @@
 
 ## go 
 
+- [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
@@ -905,6 +907,7 @@
 
 ## kubernetes 
 
+- [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2025. with learning resources
@@ -923,6 +926,7 @@
 
 ## linux 
 
+- [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 - [sonosaurus/sonobus](https://github.com/sonosaurus/sonobus) - Source code for SonoBus, a real-time network audio streaming collaboration tool.
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -1303,6 +1307,7 @@
 
 ## python 
 
+- [mfogel/django-timezone-field](https://github.com/mfogel/django-timezone-field) - A Django app providing DB, form, and REST framework fields for zoneinfo and pytz timezone objects.
 - [dakrauth/django-swingtime](https://github.com/dakrauth/django-swingtime) - 📆  Event and occurrence scheduling application for Django
 - [Bogdanp/dramatiq](https://github.com/Bogdanp/dramatiq) - A fast and reliable background task processing library for Python 3.
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
