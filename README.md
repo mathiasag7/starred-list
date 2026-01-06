@@ -197,6 +197,7 @@
 
 ## Python 
 
+- [amureki/django-devbar](https://github.com/amureki/django-devbar) - Lightweight performance devbar for Django
 - [mfogel/django-timezone-field](https://github.com/mfogel/django-timezone-field) - A Django app providing DB, form, and REST framework fields for zoneinfo and pytz timezone objects.
 - [mathiasag7/django-model-populator](https://github.com/mathiasag7/django-model-populator) - A Django application for automatically populating your database with fake/dummy data
 - [mindee/doctr](https://github.com/mindee/doctr) - docTR (Document Text Recognition) - a seamless, high-performing & accessible library for OCR-related tasks powered by Deep Learning.
