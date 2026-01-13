@@ -546,6 +546,7 @@
 
 ## TypeScript 
 
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [szimek/signature_pad](https://github.com/szimek/signature_pad) - HTML5 canvas based smooth signature drawing
 - [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker) - 🌐 The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker!
