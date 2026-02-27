@@ -190,7 +190,7 @@
 - [plausible/community-edition](https://github.com/plausible/community-edition) - Example Docker Compose setup for hosting Plausible Community Edition
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [originalankur/awesome-django-admin](https://github.com/originalankur/awesome-django-admin) - Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.
-- [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2025. with learning resources
+- [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2026. with learning resources
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 - [Tobi-De/django-autocomplete-tom-select-htmx](https://github.com/Tobi-De/django-autocomplete-tom-select-htmx) - 
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
