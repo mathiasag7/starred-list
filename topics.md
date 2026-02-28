@@ -965,6 +965,7 @@
 
 ## machine-learning 
 
+- [jube-home/aml-fraud-transaction-monitoring](https://github.com/jube-home/aml-fraud-transaction-monitoring) - Open source AML and Fraud Detection using Machine Learning for Real-Time Transaction Monitoring
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
@@ -1159,7 +1160,7 @@
 - [jazzband/django-widget-tweaks](https://github.com/jazzband/django-widget-tweaks) - Tweak the form field rendering in templates, not in python-level form definitions. CSS classes and HTML attributes can be altered.
 - [dangrossman/daterangepicker](https://github.com/dangrossman/daterangepicker) - JavaScript Date Range, Date and Time Picker Component
 - [mathiasag7/event-ease](https://github.com/mathiasag7/event-ease) - 
-- [westerveltco/django-simple-nav](https://github.com/westerveltco/django-simple-nav) - A simple, flexible, and extensible navigation menu for Django
+- [joshuadavidthomas/django-simple-nav](https://github.com/joshuadavidthomas/django-simple-nav) - A simple, flexible, and extensible navigation menu for Django
 - [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.
 - [coveragepy/coveragepy](https://github.com/coveragepy/coveragepy) - The code coverage tool for Python
 - [django-tenants/django-tenants](https://github.com/django-tenants/django-tenants) - Django tenants using PostgreSQL Schemas
