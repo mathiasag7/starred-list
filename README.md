@@ -6,6 +6,7 @@
 ## Contents
 
 - [C](#c)
+- [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
 - [Common Lisp](#common-lisp)
@@ -37,6 +38,10 @@
 - [nalgeon/sqlean.py](https://github.com/nalgeon/sqlean.py) - Python's sqlite3 + extensions
 - [citusdata/pg_cron](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL
 - [micropython/micropython](https://github.com/micropython/micropython) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
+
+## C# # 
+
+- [jube-home/aml-fraud-transaction-monitoring](https://github.com/jube-home/aml-fraud-transaction-monitoring) - Open source AML and Fraud Detection using Machine Learning for Real-Time Transaction Monitoring
 
 ## C++ 
 
@@ -280,7 +285,7 @@
 - [ebertti/django-admin-easy](https://github.com/ebertti/django-admin-easy) - Collection of admin fields and decorators to help to create computed or custom fields more friendly and easy way
 - [python-pendulum/pendulum](https://github.com/python-pendulum/pendulum) - Python datetimes made easy
 - [Tobi-De/django-litestream](https://github.com/Tobi-De/django-litestream) - Django integration with litestream, a standalone streaming replication tool for SQLite.
-- [westerveltco/django-simple-nav](https://github.com/westerveltco/django-simple-nav) - A simple, flexible, and extensible navigation menu for Django
+- [joshuadavidthomas/django-simple-nav](https://github.com/joshuadavidthomas/django-simple-nav) - A simple, flexible, and extensible navigation menu for Django
 - [spookylukey/django-paypal](https://github.com/spookylukey/django-paypal) - A pluggable Django application for integrating PayPal Payments Standard or Payments Pro
 - [coveragepy/coveragepy](https://github.com/coveragepy/coveragepy) - The code coverage tool for Python
 - [wrabit/django-cotton](https://github.com/wrabit/django-cotton) - Enabling Modern UI Composition in Django
