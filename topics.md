@@ -59,6 +59,7 @@
 - [electron](#electron)
 - [embedded](#embedded)
 - [es6](#es6)
+- [fastapi](#fastapi)
 - [finance](#finance)
 - [firefox](#firefox)
 - [flutter](#flutter)
@@ -650,6 +651,11 @@
 
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [glidejs/glide](https://github.com/glidejs/glide) - A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more
+
+## fastapi 
+
+- [getludic/ludic](https://github.com/getludic/ludic) - 🌳 A type-safe HTML template engine for Python. Build dynamic web pages using Python components with a React-like approach.
+- [Tobi-De/cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi) - Cookiecutter fastapi is a framework for jumpstarting production-ready fastapi projects quickly.
 
 ## finance 
 
@@ -1247,7 +1253,7 @@
 - [django-extensions/django-extensions](https://github.com/django-extensions/django-extensions) - This is a repository for collecting global custom management extensions for the Django Framework.
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 - [elapouya/django-listing](https://github.com/elapouya/django-listing) - Listing, table, with toolbars, automatic search and insert forms and much more for Django
-- [googleapis/google-auth-library-python](https://github.com/googleapis/google-auth-library-python) - Google Auth Python Library
+- [googleapis/google-auth-library-python](https://github.com/googleapis/google-auth-library-python) - This library has moved to https://github.com/googleapis/google-cloud-python/tree/main/packages/google-auth
 - [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
 - [peterdemin/pip-compile-multi](https://github.com/peterdemin/pip-compile-multi) - Python dependency locking for complex projects
 - [jazzband/django-formtools](https://github.com/jazzband/django-formtools) - A set of high-level abstractions for Django forms
