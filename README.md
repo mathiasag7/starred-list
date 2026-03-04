@@ -457,7 +457,7 @@
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [adamchainz/django-auto-prefetch](https://github.com/adamchainz/django-auto-prefetch) - Automatically prefetch foreign key values as needed
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
-- [googleapis/google-auth-library-python](https://github.com/googleapis/google-auth-library-python) - Google Auth Python Library
+- [googleapis/google-auth-library-python](https://github.com/googleapis/google-auth-library-python) - This library has moved to https://github.com/googleapis/google-cloud-python/tree/main/packages/google-auth
 - [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
 - [googleworkspace/python-samples](https://github.com/googleworkspace/python-samples) - 🐍 Python samples for Google Workspace APIs
 - [peterdemin/pip-compile-multi](https://github.com/peterdemin/pip-compile-multi) - Python dependency locking for complex projects
