@@ -66,6 +66,7 @@
 
 ## Go 
 
+- [MiniCodeMonkey/chief](https://github.com/MiniCodeMonkey/chief) - Build big projects with Claude. Chief breaks your work into tasks and runs Claude Code in a loop until they're done.
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
