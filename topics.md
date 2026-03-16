@@ -580,7 +580,7 @@
 - [dfunckt/django-rules](https://github.com/dfunckt/django-rules) - Awesome Django authorization, without the database
 - [django-notifications/django-notifications](https://github.com/django-notifications/django-notifications) - GitHub notifications alike app for Django
 - [jazzband/django-payments](https://github.com/jazzband/django-payments) - Universal payment handling for Django.
-- [WhyNotHugo/django-renderpdf](https://github.com/WhyNotHugo/django-renderpdf) - 📄 Django app to render django templates as PDF files.
+- [WhyNotHugo/django-renderpdf](https://github.com/WhyNotHugo/django-renderpdf) - Render django templates as PDF files.
 - [sajib1066/event-calendar](https://github.com/sajib1066/event-calendar) - Django-based Event Calendar application.
 - [clokep/django-render-block](https://github.com/clokep/django-render-block) - Render the content of a specific block tag from a Django template.
 - [caktus/django-filters-facet](https://github.com/caktus/django-filters-facet) - A django-filter extension to refine search results using faceted navigation functionality.
@@ -819,7 +819,7 @@
 - [open-loadr/loadr](https://github.com/open-loadr/loadr) - Loadr is an efficient solution for seamlessly loading large images in HTML, with a minified size of under 1 KB.
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 - [Xzya/django-web-components](https://github.com/Xzya/django-web-components) - A simple way to create reusable template components in Django.
-- [WhyNotHugo/django-renderpdf](https://github.com/WhyNotHugo/django-renderpdf) - 📄 Django app to render django templates as PDF files.
+- [WhyNotHugo/django-renderpdf](https://github.com/WhyNotHugo/django-renderpdf) - Render django templates as PDF files.
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
@@ -941,7 +941,7 @@
 
 - [open-loadr/loadr](https://github.com/open-loadr/loadr) - Loadr is an efficient solution for seamlessly loading large images in HTML, with a minified size of under 1 KB.
 - [gruns/icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again.
-- [WhyNotHugo/django-renderpdf](https://github.com/WhyNotHugo/django-renderpdf) - 📄 Django app to render django templates as PDF files.
+- [WhyNotHugo/django-renderpdf](https://github.com/WhyNotHugo/django-renderpdf) - Render django templates as PDF files.
 
 ## linux 
 
