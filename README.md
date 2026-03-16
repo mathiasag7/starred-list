@@ -429,7 +429,7 @@
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 - [django-notifications/django-notifications](https://github.com/django-notifications/django-notifications) - GitHub notifications alike app for Django
 - [jazzband/django-payments](https://github.com/jazzband/django-payments) - Universal payment handling for Django.
-- [WhyNotHugo/django-renderpdf](https://github.com/WhyNotHugo/django-renderpdf) - 📄 Django app to render django templates as PDF files.
+- [WhyNotHugo/django-renderpdf](https://github.com/WhyNotHugo/django-renderpdf) - Render django templates as PDF files.
 - [clokep/django-render-block](https://github.com/clokep/django-render-block) - Render the content of a specific block tag from a Django template.
 - [dabapps/django-forms-dynamic](https://github.com/dabapps/django-forms-dynamic) - Resolve form field arguments dynamically when a form is instantiated
 - [caktus/django-filters-facet](https://github.com/caktus/django-filters-facet) - A django-filter extension to refine search results using faceted navigation functionality.
