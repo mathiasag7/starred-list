@@ -1130,6 +1130,7 @@
 
 ## others 
 
+- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [amureki/django-devbar](https://github.com/amureki/django-devbar) - Lightweight performance devbar for Django
 - [mathiasag7/django-model-populator](https://github.com/mathiasag7/django-model-populator) - A Django application for automatically populating your database with fake/dummy data
