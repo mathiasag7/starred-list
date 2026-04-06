@@ -28,6 +28,7 @@
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
+- [claude-code](#claude-code)
 - [cli](#cli)
 - [cloud](#cloud)
 - [cms](#cms)
@@ -329,6 +330,15 @@
 
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting many document formats into PDF files, and more!
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+
+## claude-code 
+
+- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+- [MiniCodeMonkey/chief](https://github.com/MiniCodeMonkey/chief) - Build big projects with Claude. Chief breaks your work into tasks and runs Claude Code in a loop until they're done.
+- [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
+- [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
+- [ntegrals/10x](https://github.com/ntegrals/10x) - ⚡️ 10x - Up to 20x faster AI coding with multi-step Superpowers. Open-source agent with smart model routing, BYOK, fully self-hosted.
 
 ## cli 
 
@@ -1132,7 +1142,6 @@
 
 ## others 
 
-- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [amureki/django-devbar](https://github.com/amureki/django-devbar) - Lightweight performance devbar for Django
 - [mathiasag7/django-model-populator](https://github.com/mathiasag7/django-model-populator) - A Django application for automatically populating your database with fake/dummy data
