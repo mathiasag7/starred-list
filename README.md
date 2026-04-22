@@ -20,6 +20,7 @@
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Others](#others)
+- [PLpgSQL](#plpgsql)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -31,6 +32,7 @@
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [XSLT](#xslt)
+- [Zig](#zig)
 
 ## C 
 
@@ -66,6 +68,8 @@
 
 ## Go 
 
+- [formancehq/ledger](https://github.com/formancehq/ledger) - The programmable open source core ledger for fintech
+- [blnkfinance/blnk](https://github.com/blnkfinance/blnk) - Blnk is an open-source ledger & financial core for shipping fintech products fast.
 - [MiniCodeMonkey/chief](https://github.com/MiniCodeMonkey/chief) - Build big projects with Claude. Chief breaks your work into tasks and runs Claude Code in a loop until they're done.
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
@@ -204,6 +208,10 @@
 - [PyHAT-stack/awesome-python-htmx](https://github.com/PyHAT-stack/awesome-python-htmx) - A curated list of things related to python-based web development using htmx
 - [mitchtabian/HOWTO-django-channels-daphne](https://github.com/mitchtabian/HOWTO-django-channels-daphne) - A how-to document outlining how to publish a django website equipped with WebSockets using Django Channels.
 
+## PLpgSQL 
+
+- [NikolayS/pgque](https://github.com/NikolayS/pgque) - PgQue – Zero-bloat Postgres queue. One SQL file to install, pg_cron to tick.
+
 ## Python 
 
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
@@ -300,7 +308,7 @@
 - [craigds/django-typed-models](https://github.com/craigds/django-typed-models) - polymorphic django models using automatic type-field downcasting
 - [RamezIssac/django-slick-reporting](https://github.com/RamezIssac/django-slick-reporting) - The Reporting Engine for Django. Create dashboards and standalone Reports and Charts.
 - [gorakhargosh/watchdog](https://github.com/gorakhargosh/watchdog) - Python library and shell utilities to monitor filesystem events.
-- [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
+- [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and cloud-native Web Application Firewall (WAF)
 - [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication. 🔁 Mirror of https://codeberg.org/allauth/django-
 - [dimagi/django-cte](https://github.com/dimagi/django-cte) - Common Table Expressions (CTE) for Django
 - [fabiocaccamo/django-treenode](https://github.com/fabiocaccamo/django-treenode) - :deciduous_tree: probably the best abstract model/admin for your tree based stuff.
@@ -576,7 +584,7 @@
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 - [MichaelXF/js-confuser](https://github.com/MichaelXF/js-confuser) - JS-Confuser is a JavaScript obfuscation tool to make your programs *impossible* to read.
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A lightweight, dependency-free JavaScript library for guiding user focus across the page.
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - Shoelace is now Web Awesome. Come see what’s new!
@@ -613,6 +621,10 @@
 ## XSLT 
 
 - [auvipy/uml-to-django](https://github.com/auvipy/uml-to-django) - This tool automatically generates the Django model and admin interface from a UML class diagram.
+
+## Zig 
+
+- [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance.
 
 
 ## License
