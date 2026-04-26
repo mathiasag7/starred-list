@@ -618,6 +618,7 @@
 
 ## Vue 
 
+- [frappe/insights](https://github.com/frappe/insights) - Open Source Business Intelligence Tool
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 
 ## XSLT 
