@@ -225,6 +225,7 @@
 
 ## analytics 
 
+- [frappe/insights](https://github.com/frappe/insights) - Open Source Business Intelligence Tool
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
 - [RamezIssac/django-slick-reporting](https://github.com/RamezIssac/django-slick-reporting) - The Reporting Engine for Django. Create dashboards and standalone Reports and Charts.
 
@@ -450,6 +451,7 @@
 
 ## data-visualization 
 
+- [frappe/insights](https://github.com/frappe/insights) - Open Source Business Intelligence Tool
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 
@@ -1064,6 +1066,7 @@
 
 ## mysql 
 
+- [frappe/insights](https://github.com/frappe/insights) - Open Source Business Intelligence Tool
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal
 - [dymmond/edgy](https://github.com/dymmond/edgy) - 🔥 The perfect ORM to work with complex databases 🔥
 - [dimitri/pgloader](https://github.com/dimitri/pgloader) - Migrate to PostgreSQL in a single command!
@@ -1814,6 +1817,7 @@
 
 ## vue 
 
+- [frappe/insights](https://github.com/frappe/insights) - Open Source Business Intelligence Tool
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [Splidejs/splide](https://github.com/Splidejs/splide) - Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors.
 
