@@ -907,6 +907,7 @@
 
 ## javascript 
 
+- [frappe/crm](https://github.com/frappe/crm) - Fully featured, open source CRM
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [szimek/signature_pad](https://github.com/szimek/signature_pad) - HTML5 canvas based smooth signature drawing
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
@@ -1142,6 +1143,7 @@
 
 ## open-source 
 
+- [frappe/crm](https://github.com/frappe/crm) - Fully featured, open source CRM
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
@@ -1400,6 +1402,7 @@
 
 ## python 
 
+- [frappe/crm](https://github.com/frappe/crm) - Fully featured, open source CRM
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [mfogel/django-timezone-field](https://github.com/mfogel/django-timezone-field) - A Django app providing DB, form, and REST framework fields for zoneinfo and pytz timezone objects.
@@ -1837,6 +1840,7 @@
 
 ## vue 
 
+- [frappe/crm](https://github.com/frappe/crm) - Fully featured, open source CRM
 - [frappe/insights](https://github.com/frappe/insights) - Open Source Business Intelligence Tool
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [Splidejs/splide](https://github.com/Splidejs/splide) - Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors.
@@ -1852,6 +1856,7 @@
 
 ## web 
 
+- [frappe/crm](https://github.com/frappe/crm) - Fully featured, open source CRM
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [pretix/pretix](https://github.com/pretix/pretix) - Ticket shop application for conferences, festivals, concerts, tech events, shows, exhibitions, workshops, barcamps, etc.
@@ -1866,6 +1871,7 @@
 
 ## webapp 
 
+- [frappe/crm](https://github.com/frappe/crm) - Fully featured, open source CRM
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 
