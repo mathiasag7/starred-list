@@ -1188,6 +1188,7 @@
 
 ## others 
 
+- [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
 - [formancehq/ledger](https://github.com/formancehq/ledger) - The programmable open source core ledger for fintech
