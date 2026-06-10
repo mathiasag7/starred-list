@@ -1291,7 +1291,7 @@
 - [jazzband/django-robots](https://github.com/jazzband/django-robots) - A Django app for managing robots.txt files following the robots exclusion protocol
 - [jsocol/django-ratelimit](https://github.com/jsocol/django-ratelimit) - Cache-based rate-limiting for Django
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
-- [meilisearch/meilisearch-python](https://github.com/meilisearch/meilisearch-python) - Python wrapper for the Meilisearch API
+- [meilisearch/meilisearch-python](https://github.com/meilisearch/meilisearch-python) - Python client for Meilisearch
 - [jazzband/django-constance](https://github.com/jazzband/django-constance) - Dynamic Django settings.
 - [respondcreate/django-versatileimagefield](https://github.com/respondcreate/django-versatileimagefield) - A drop-in replacement for django's ImageField that provides a flexible, intuitive and easily-extensible interface for quickly creating new images from the one assigned to the field.
 - [kraiz/django-crontab](https://github.com/kraiz/django-crontab) - dead simple crontab powered job scheduling for django.
