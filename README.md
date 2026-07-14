@@ -74,6 +74,7 @@
 
 ## Go 
 
+- [sorenisanerd/gotty](https://github.com/sorenisanerd/gotty) - Share your terminal as a web application
 - [formancehq/ledger](https://github.com/formancehq/ledger) - The programmable open source core ledger for fintech
 - [blnkfinance/blnk](https://github.com/blnkfinance/blnk) - Blnk is an open-source ledger & financial core for shipping fintech products fast.
 - [MiniCodeMonkey/chief](https://github.com/MiniCodeMonkey/chief) - Build big projects with Claude. Chief breaks your work into tasks and runs Claude Code in a loop until they're done.
