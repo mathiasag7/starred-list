@@ -235,7 +235,7 @@
 - [amureki/django-devbar](https://github.com/amureki/django-devbar) - Lightweight performance devbar for Django
 - [mfogel/django-timezone-field](https://github.com/mfogel/django-timezone-field) - A Django app providing DB, form, and REST framework fields for zoneinfo and pytz timezone objects.
 - [mathiasag7/django-model-populator](https://github.com/mathiasag7/django-model-populator) - A Django application for automatically populating your database with fake/dummy data
-- [mindee/doctr](https://github.com/mindee/doctr) - docTR (Document Text Recognition) - a seamless, high-performing & accessible library for OCR-related tasks powered by Deep Learning.
+- [mindee/doctr](https://github.com/mindee/doctr) - docTR (Document Text Recognition) - a seamless, high-performing & accessible library for OCR-related tasks powered by Deep Learning. Ongoing development and maintenance by t2k.
 - [CuriousLearner/django-phone-verify](https://github.com/CuriousLearner/django-phone-verify) - A Django app to support phone number verification using security code / One-Time-Password (OTP) sent via SMS.
 - [dakrauth/django-swingtime](https://github.com/dakrauth/django-swingtime) - 📆  Event and occurrence scheduling application for Django
 - [usmanhalalit/DjangoRealtime](https://github.com/usmanhalalit/DjangoRealtime) - Realtime browser events, SSE for Django + PostgreSQL
