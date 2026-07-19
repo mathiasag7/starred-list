@@ -246,7 +246,6 @@
 - [p-sto/presentations](https://github.com/p-sto/presentations) - Collection of my presentations
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [timonweb/Django-manage.py-anywhere](https://github.com/timonweb/Django-manage.py-anywhere) - ⚙️ Run manage.py commands from anywhere — it 🔍 automatically finds the nearest manage.py file and runs your command for you. 🚀
-- [ikamensh/flynt](https://github.com/ikamensh/flynt) - A tool to automatically convert old string literal formatting to f-strings
 - [akaihola/darker](https://github.com/akaihola/darker) - Apply black reformatting to Python files only in regions changed since a given commit. For a practical usage example, see the blog post at https://dev.to/akaihola/improving-python-code-incrementally-3
 - [DRYTRIX/TimeTracker](https://github.com/DRYTRIX/TimeTracker) - 💙 Support the Project  TimeTracker is open-source and free to self-host.  If it saves you time or money:  ☕ Support development  ⭐ Star the repo
 - [CuriousLearner/django-postgres-anonymizer](https://github.com/CuriousLearner/django-postgres-anonymizer) - Django integration for PostgreSQL Anonymizer extension
@@ -542,6 +541,7 @@
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
+- [ikamensh/flynt](https://github.com/ikamensh/flynt) - A tool to automatically convert old string literal formatting to f-strings
 - [rgwood/systemctl-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal
