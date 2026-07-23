@@ -1251,6 +1251,7 @@
 
 ## others 
 
+- [traycerai/traycer](https://github.com/traycerai/traycer) - Traycer: Nerve Center for Agentic Coding
 - [sorenisanerd/gotty](https://github.com/sorenisanerd/gotty) - Share your terminal as a web application
 - [spotify/klio](https://github.com/spotify/klio) - Smarter data pipelines for audio.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
