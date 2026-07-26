@@ -228,7 +228,7 @@
 
 ## PowerShell 
 
-- [tazama-lf/Full-Stack-Docker-Tazama](https://github.com/tazama-lf/Full-Stack-Docker-Tazama) - 
+- [tazama-lf/tazama-stack](https://github.com/tazama-lf/tazama-stack) - Containerized deployment of the Tazama platform via Docker Compose
 
 ## Python 
 
