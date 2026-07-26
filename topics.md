@@ -1278,7 +1278,7 @@
 - [p-sto/presentations](https://github.com/p-sto/presentations) - Collection of my presentations
 - [DRYTRIX/TimeTracker](https://github.com/DRYTRIX/TimeTracker) - 💙 Support the Project  TimeTracker is open-source and free to self-host.  If it saves you time or money:  ☕ Support development  ⭐ Star the repo
 - [rgwood/systemctl-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs
-- [tazama-lf/Full-Stack-Docker-Tazama](https://github.com/tazama-lf/Full-Stack-Docker-Tazama) - 
+- [tazama-lf/tazama-stack](https://github.com/tazama-lf/tazama-stack) - Containerized deployment of the Tazama platform via Docker Compose
 - [jazzband/django-pipeline](https://github.com/jazzband/django-pipeline) - Pipeline is an asset packaging library for Django.
 - [atomiks/tippyjs](https://github.com/atomiks/tippyjs) - Tooltip, popover, dropdown, and menu library
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
