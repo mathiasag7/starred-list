@@ -38,6 +38,7 @@
 - [code](#code)
 - [coding](#coding)
 - [command-line](#command-line)
+- [compiler](#compiler)
 - [computer-science](#computer-science)
 - [config](#config)
 - [continuous-integration](#continuous-integration)
@@ -446,6 +447,10 @@
 - [lcfd/trak](https://github.com/lcfd/trak) - Keep a record of the time you dedicate to your projects. ⚠️ Under HEAVY active development ⚠️
 - [django-commons/django-typer](https://github.com/django-commons/django-typer) - Use Typer (type hints) to define the interface for your Django management commands.
 - [anze3db/django-tui](https://github.com/anze3db/django-tui) - Inspect and run Django Commands in a text-based user interface (TUI)
+
+## compiler 
+
+- [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 
 ## computer-science 
 
@@ -1257,6 +1262,7 @@
 
 ## others 
 
+- [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 - [traycerai/traycer](https://github.com/traycerai/traycer) - Traycer: Nerve Center for Agentic Coding
 - [sorenisanerd/gotty](https://github.com/sorenisanerd/gotty) - Share your terminal as a web application
 - [spotify/klio](https://github.com/spotify/klio) - Smarter data pipelines for audio.
