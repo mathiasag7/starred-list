@@ -236,6 +236,7 @@
 - [datalab-to/chandra](https://github.com/datalab-to/chandra) - OCR model that handles complex tables, forms, handwriting with full layout.
 - [spotify/klio](https://github.com/spotify/klio) - Smarter data pipelines for audio.
 - [django-helpdesk/django-helpdesk](https://github.com/django-helpdesk/django-helpdesk) - A Django application to manage tickets for an internal helpdesk. Formerly known as Jutda Helpdesk.
+- [frappe/insights](https://github.com/frappe/insights) - Open Source Business Intelligence Tool
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 - [amureki/django-devbar](https://github.com/amureki/django-devbar) - Lightweight performance devbar for Django
@@ -652,7 +653,6 @@
 ## Vue 
 
 - [frappe/crm](https://github.com/frappe/crm) - Fully featured, open source CRM
-- [frappe/insights](https://github.com/frappe/insights) - Open Source Business Intelligence Tool
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 
 ## XSLT 
