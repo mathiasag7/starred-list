@@ -322,6 +322,7 @@
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [originalankur/awesome-django-admin](https://github.com/originalankur/awesome-django-admin) - Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 
 ## aws 
 
@@ -1540,7 +1541,7 @@
 - [repo-helper/hatch-requirements-txt](https://github.com/repo-helper/hatch-requirements-txt) - Hatchling plugin to read project dependencies from requirements.txt
 - [brack3t/django-braces](https://github.com/brack3t/django-braces) - Reusable, generic mixins for Django
 - [neutronX/django-markdownx](https://github.com/neutronX/django-markdownx) - Comprehensive Markdown plugin built for Django
-- [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Modern datetime library for Python
+- [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Type-safe datetimes for Python that get DST right. Rust or pure Python, your choice
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [SethMMorton/natsort](https://github.com/SethMMorton/natsort) - Simple yet flexible natural sorting in Python.
 - [lcfd/trak](https://github.com/lcfd/trak) - Keep a record of the time you dedicate to your projects. ⚠️ Under HEAVY active development ⚠️
@@ -1739,7 +1740,7 @@
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal
-- [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Modern datetime library for Python
+- [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Type-safe datetimes for Python that get DST right. Rust or pure Python, your choice
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - PostgreSQL connection pooler, load balancer and database sharder.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
