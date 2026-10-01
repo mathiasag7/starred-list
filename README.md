@@ -351,7 +351,7 @@
 - [django-parler/django-parler](https://github.com/django-parler/django-parler) - Easily translate "cheese omelet" into "omelette au fromage".
 - [codingjoe/django-pictures](https://github.com/codingjoe/django-pictures) - Responsive cross-browser image library using modern codes like AVIF & WebP
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
-- [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
+- [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal. Now with hsql, your agent's favorite sql client.
 - [zostera/django-modeltrans](https://github.com/zostera/django-modeltrans) - Translate Django model fields in a PostgreSQL JSONField
 - [ellmetha/django-machina](https://github.com/ellmetha/django-machina) - A Django forum engine for building powerful community driven websites.
 - [resend/resend-python](https://github.com/resend/resend-python) - Resend's official python sdk
