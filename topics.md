@@ -60,6 +60,7 @@
 - [development](#development)
 - [devops](#devops)
 - [discord](#discord)
+- [distributed-systems](#distributed-systems)
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -132,6 +133,8 @@
 - [node](#node)
 - [nodejs](#nodejs)
 - [npm](#npm)
+- [obsidian](#obsidian)
+- [obsidian-plugin](#obsidian-plugin)
 - [open-source](#open-source)
 - [openai](#openai)
 - [operating-system](#operating-system)
@@ -605,6 +608,10 @@
 
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 
+## distributed-systems 
+
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+
 ## django 
 
 - [django-helpdesk/django-helpdesk](https://github.com/django-helpdesk/django-helpdesk) - A Django application to manage tickets for an internal helpdesk. Formerly known as Jutda Helpdesk.
@@ -738,7 +745,7 @@
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [lissy93/domain-locker](https://github.com/lissy93/domain-locker) - 🌐 The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker!
-- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
+- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted, plugin-based server management.
 - [DRYTRIX/TimeTracker](https://github.com/DRYTRIX/TimeTracker) - Self-hosted time tracking & invoicing for freelancers and teams: timers, projects, PDF and Peppol e-invoicing. Open-source Toggl/Clockify alternative.
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
@@ -1275,8 +1282,17 @@
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 
+## obsidian 
+
+- [wilfriedago/obsidian-tinymist](https://github.com/wilfriedago/obsidian-tinymist) - Edit, preview, and export Typst documents in Obsidian, backed by the Tinymist language server.
+
+## obsidian-plugin 
+
+- [wilfriedago/obsidian-tinymist](https://github.com/wilfriedago/obsidian-tinymist) - Edit, preview, and export Typst documents in Obsidian, backed by the Tinymist language server.
+
 ## open-source 
 
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [frappe/crm](https://github.com/frappe/crm) - Fully featured, open source CRM
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -1309,6 +1325,7 @@
 
 ## others 
 
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 - [traycerai/traycer](https://github.com/traycerai/traycer) - Traycer: Nerve Center for Agentic Coding
@@ -1767,6 +1784,7 @@
 
 ## rust 
 
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -1810,7 +1828,7 @@
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [lissy93/domain-locker](https://github.com/lissy93/domain-locker) - 🌐 The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker!
-- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
+- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted, plugin-based server management.
 - [DRYTRIX/TimeTracker](https://github.com/DRYTRIX/TimeTracker) - Self-hosted time tracking & invoicing for freelancers and teams: timers, projects, PDF and Peppol e-invoicing. Open-source Toggl/Clockify alternative.
 - [Notifuse/notifuse](https://github.com/Notifuse/notifuse) - Open-source, self-hosted newsletter, email marketing and transactional email platform. Visual MJML editor, Liquid templating, 7 sending providers.
 - [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
@@ -1928,7 +1946,7 @@
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
-- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
+- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted, plugin-based server management.
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
@@ -1963,6 +1981,7 @@
 
 ## typescript 
 
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
