@@ -154,6 +154,7 @@
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [Anrsgrl/resume-builder](https://github.com/Anrsgrl/resume-builder) - Create a professional and standardized resume for free, with no sign-up required
 - [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor) - A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [NickPiscitelli/Glider.js](https://github.com/NickPiscitelli/Glider.js) - A fast, lightweight, dependency free, native scrolling carousel alternative!
 - [websockets/wscat](https://github.com/websockets/wscat) - WebSocket cat
 - [orchidjs/tom-select](https://github.com/orchidjs/tom-select) - Tom Select is a lightweight (~16kb gzipped) hybrid of a textbox and select box. Forked from selectize.js to provide a framework agnostic autocomplete widget with native-feeling keyboard navigation. Us
@@ -309,7 +310,6 @@
 - [adamchainz/django-cors-headers](https://github.com/adamchainz/django-cors-headers) - Django app for handling the server headers required for Cross-Origin Resource Sharing (CORS)
 - [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [django-commons/django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.
 - [bhch/django-jsonform](https://github.com/bhch/django-jsonform) - A better, user-friendly JSON editing form field for Django admin. Also supports Postgres ArrayField.
 - [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a Python library for generating fake but realistic data in multiple languages and locales.
@@ -551,6 +551,7 @@
 
 ## Rust 
 
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
@@ -605,6 +606,8 @@
 
 ## TypeScript 
 
+- [wilfriedago/obsidian-tinymist](https://github.com/wilfriedago/obsidian-tinymist) - Edit, preview, and export Typst documents in Obsidian, backed by the Tinymist language server.
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [MadAppGang/claudish](https://github.com/MadAppGang/claudish) - Claude Code. Any Model. The most powerful AI coding agent now speaks every language.
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
@@ -622,7 +625,7 @@
 - [szimek/signature_pad](https://github.com/szimek/signature_pad) - HTML5 canvas based smooth signature drawing
 - [lissy93/domain-locker](https://github.com/lissy93/domain-locker) - 🌐 The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker!
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
-- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
+- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted, plugin-based server management.
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [jackocnr/intl-tel-input](https://github.com/jackocnr/intl-tel-input) - For entering, formatting, and validating international telephone numbers. Available in vanilla JavaScript, or as React, Vue, Angular, and Svelte components.
