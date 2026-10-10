@@ -614,6 +614,7 @@
 
 ## django 
 
+- [labbhq/labb](https://github.com/labbhq/labb) - The reactive UI component library for Django
 - [django-helpdesk/django-helpdesk](https://github.com/django-helpdesk/django-helpdesk) - A Django application to manage tickets for an internal helpdesk. Formerly known as Jutda Helpdesk.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [mfogel/django-timezone-field](https://github.com/mfogel/django-timezone-field) - A Django app providing DB, form, and REST framework fields for zoneinfo and pytz timezone objects.
@@ -1925,6 +1926,7 @@
 
 ## tailwindcss 
 
+- [labbhq/labb](https://github.com/labbhq/labb) - The reactive UI component library for Django
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [maizzle/framework](https://github.com/maizzle/framework) - The modern email development framework.
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
@@ -2000,6 +2002,7 @@
 
 ## ui 
 
+- [labbhq/labb](https://github.com/labbhq/labb) - The reactive UI component library for Django
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Modern Django Admin
