@@ -137,7 +137,7 @@
 
 ## JavaScript 
 
-- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -516,7 +516,7 @@
 - [djangopackages/djangopackages](https://github.com/djangopackages/djangopackages) - Django Packages is a directory of reusable apps, sites, tools, and more for your Django projects.
 - [jazzband/django-axes](https://github.com/jazzband/django-axes) - Keep track of failed login attempts in Django-powered sites.
 - [heuer/segno](https://github.com/heuer/segno) - Python QR Code and Micro QR Code encoder
-- [jazzband/pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
+- [pypa/pip-tools](https://github.com/pypa/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
 - [PHACDataHub/django-htmx-autocomplete](https://github.com/PHACDataHub/django-htmx-autocomplete) - A Django autocomplete component powered by htmx
 - [jazzband/django-model-utils](https://github.com/jazzband/django-model-utils) - Django model mixins and utilities.
 - [jazzband/django-push-notifications](https://github.com/jazzband/django-push-notifications) - Send push notifications to mobile devices through GCM or APNS in Django.
@@ -617,7 +617,7 @@
 - [floodtide/dom-docx](https://github.com/floodtide/dom-docx) - Convert semantic HTML fragments to native, editable Word documents (OOXML)
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work,
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [Twigpine/openclaude](https://github.com/Twigpine/openclaude) - runs anywhere. uses anything
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
