@@ -92,7 +92,7 @@
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [Notifuse/notifuse](https://github.com/Notifuse/notifuse) - Open-source, self-hosted newsletter, email marketing and transactional email platform. Visual MJML editor, Liquid templating, 7 sending providers.
-- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
+- [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
 - [Billionmail/BillionMail](https://github.com/Billionmail/BillionMail) - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
@@ -363,7 +363,7 @@
 - [aaugustin/datedelta](https://github.com/aaugustin/datedelta) - Date arithmetic in Python
 - [aaugustin/django-sesame](https://github.com/aaugustin/django-sesame) - "Magic Links" - URLs with authentication tokens for one-click login
 - [gruns/icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again.
-- [3YOURMIND/django-migration-linter](https://github.com/3YOURMIND/django-migration-linter) - :rocket: Detect backward incompatible migrations for your django project
+- [David-Wobrock/django-migration-linter](https://github.com/David-Wobrock/django-migration-linter) - :rocket: Detect backward incompatible migrations for your django project
 - [django-commons/django-tasks-scheduler](https://github.com/django-commons/django-tasks-scheduler) - Schedule async tasks using redis protocol. Redis/ValKey/Dragonfly or any broker using the redis protocol can be used.
 - [getludic/ludic](https://github.com/getludic/ludic) - 🌳 A type-safe HTML template engine for Python. Build dynamic web pages using Python components with a React-like approach.
 - [metalogico/django-sonar](https://github.com/metalogico/django-sonar) - The missing debug tool for django
