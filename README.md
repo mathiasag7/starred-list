@@ -114,7 +114,7 @@
 
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [labbhq/labb](https://github.com/labbhq/labb) - The reactive UI component library for Django
-- [xberg-io/html-to-markdown](https://github.com/xberg-io/html-to-markdown) - High performance and CommonMark compliant HTML to Markdown converter. Maintained by the Kreuzberg team. Kreuzberg is a fast, polyglot document intelligence engine with a Rust core. It extracts structu
+- [xberg-io/html-to-markdown](https://github.com/xberg-io/html-to-markdown) - Turn messy, real-world HTML into clean Markdown, from every major language.
 - [horilla/horilla-hr](https://github.com/horilla/horilla-hr) - Horilla is a free and open source HR software.
 - [Ayushparikh-code/Web-dev-mini-projects](https://github.com/Ayushparikh-code/Web-dev-mini-projects) - The repository contains the list of awesome✨ & cool web development beginner-friendly✌️ projects!
 - [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template) - A free simple responsive HTML email template
@@ -379,7 +379,7 @@
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [jsocol/django-adminplus](https://github.com/jsocol/django-adminplus) - Easily add custom views to the Django admin.
 - [fcurella/django-fakery](https://github.com/fcurella/django-fakery) - 🏭  An easy-to-use implementation of Creation Methods for Django, backed by Faker.
-- [jazzband/django-robots](https://github.com/jazzband/django-robots) - A Django app for managing robots.txt files following the robots exclusion protocol
+- [django-commons/django-robots](https://github.com/django-commons/django-robots) - A Django app for managing robots.txt files following the robots exclusion protocol
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [jsocol/django-ratelimit](https://github.com/jsocol/django-ratelimit) - Cache-based rate-limiting for Django
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
@@ -449,7 +449,7 @@
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 - [Suor/django-cacheops](https://github.com/Suor/django-cacheops) - A slick ORM cache with automatic granular event-driven invalidation.
 - [vitalik/django-ninja](https://github.com/vitalik/django-ninja) - 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs
-- [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - Use Database URLs in your Django Application.
+- [django-commons/dj-database-url](https://github.com/django-commons/dj-database-url) - Use Database URLs in your Django Application.
 - [fabiocaccamo/django-extra-settings](https://github.com/fabiocaccamo/django-extra-settings) - :gear: config and manage typed extra settings using just the django admin.
 - [jrief/django-formset](https://github.com/jrief/django-formset) - The missing widgets and form manipulation library for Django
 - [django-money/django-money](https://github.com/django-money/django-money) - Money fields for Django forms and models.
@@ -557,6 +557,7 @@
 
 ## Rust 
 
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
