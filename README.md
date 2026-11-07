@@ -64,7 +64,6 @@
 
 - [Automattic/_s](https://github.com/Automattic/_s) - Inactive project – please visit https://themeshaper.com/block-themes/ to learn more about the future of WordPress themes with Block Themes.
 - [adamghill/refreshcss](https://github.com/adamghill/refreshcss) - Make your CSS so fresh, so clean.
-- [CodeByZach/pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site.
 
 ## Common Lisp 
 
@@ -186,6 +185,7 @@
 - [spirodonfl/htmx-offline-mode](https://github.com/spirodonfl/htmx-offline-mode) - Adding offline mode capabilities to HTMX
 - [nilbuild/jquery-toast-plugin](https://github.com/nilbuild/jquery-toast-plugin) - Highly customizable jquery plugin to show toast messages
 - [adamghill/conjure](https://github.com/adamghill/conjure) - HTML-first, low-friction library to add interactivity to a web page with minimal hassle.
+- [CodeByZach/pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site.
 - [kgscialdone/htmx-template](https://github.com/kgscialdone/htmx-template) - HTMX extension enabling it to retrieve the contents of &lt;template&gt; elements rather than make an HTTP request
 - [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
 - [sampotts/plyr](https://github.com/sampotts/plyr) - Deprecated in favour of Video.js 10; security updates only. Simple HTML5, YouTube and Vimeo player.
@@ -556,6 +556,7 @@
 
 ## Rust 
 
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
@@ -593,6 +594,7 @@
 
 ## Shell 
 
+- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
@@ -622,7 +624,7 @@
 - [wilfriedago/obsidian-tinymist](https://github.com/wilfriedago/obsidian-tinymist) - Edit, preview, and export Typst documents in Obsidian, backed by the Tinymist language server.
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [MadAppGang/claudish](https://github.com/MadAppGang/claudish) - Claude Code. Any Model. The most powerful AI coding agent now speaks every language.
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of coding agents (e.g. Claude Code, Codex). Run any agent with your own subscription. Available on desktop, mobile and remote runtime.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [traycerai/traycer](https://github.com/traycerai/traycer) - Traycer: Nerve Center for Agentic Coding
 - [floodtide/dom-docx](https://github.com/floodtide/dom-docx) - Convert semantic HTML fragments to native, editable Word documents (OOXML)
