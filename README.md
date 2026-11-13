@@ -241,6 +241,8 @@
 
 ## Python 
 
+- [django/channels](https://github.com/django/channels) - Developer-friendly asynchrony for Django
+- [wemake-services/django-modern-rest](https://github.com/wemake-services/django-modern-rest) - Modern REST framework for Django with types and async support!
 - [codingjoe/django-letter](https://github.com/codingjoe/django-letter) - HTML emails via Django templates
 - [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills befo
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
