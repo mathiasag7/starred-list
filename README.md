@@ -688,7 +688,7 @@
 ## Vue 
 
 - [frappe/crm](https://github.com/frappe/crm) - Fully featured, open source CRM
-- [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
+- [homer-dashboard/homer](https://github.com/homer-dashboard/homer) - A very simple static homepage for your server.
 
 ## XSLT 
 
