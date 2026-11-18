@@ -23,6 +23,7 @@
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Others](#others)
+- [PHP](#php)
 - [PLpgSQL](#plpgsql)
 - [PowerShell](#powershell)
 - [Python](#python)
@@ -84,7 +85,7 @@
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [formancehq/ledger](https://github.com/formancehq/ledger) - The programmable open source core ledger for fintech
 - [blnkfinance/blnk](https://github.com/blnkfinance/blnk) - Blnk is an open-source ledger & financial core for shipping fintech products fast.
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.
 - [MiniCodeMonkey/chief](https://github.com/MiniCodeMonkey/chief) - Build big projects with Claude. Chief breaks your work into tasks and runs Claude Code in a loop until they're done.
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
@@ -231,6 +232,10 @@
 - [PyHAT-stack/awesome-python-htmx](https://github.com/PyHAT-stack/awesome-python-htmx) - A curated list of things related to python-based web development using htmx
 - [mitchtabian/HOWTO-django-channels-daphne](https://github.com/mitchtabian/HOWTO-django-channels-daphne) - A how-to document outlining how to publish a django website equipped with WebSockets using Django Channels.
 
+## PHP 
+
+- [dev-null-sh/dev-null.sh](https://github.com/dev-null-sh/dev-null.sh) - a social media for devs
+
 ## PLpgSQL 
 
 - [NikolayS/PgQue](https://github.com/NikolayS/PgQue) - PgQue – Zero-bloat Postgres queue built on top of on battle-proven Skype's PgQ. One SQL file to install, pg_cron to tick https://pgque.dev
@@ -241,6 +246,7 @@
 
 ## Python 
 
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [django/channels](https://github.com/django/channels) - Developer-friendly asynchrony for Django
 - [wemake-services/django-modern-rest](https://github.com/wemake-services/django-modern-rest) - Modern REST framework for Django with types and async support!
 - [codingjoe/django-letter](https://github.com/codingjoe/django-letter) - HTML emails via Django templates
@@ -276,7 +282,7 @@
 - [t-strings/tdom](https://github.com/t-strings/tdom) - A 🤘 rockin' t-string HTML templating system for Python 3.14.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [adamchainz/django-watchfiles](https://github.com/adamchainz/django-watchfiles) - Make Django’s autoreloader more efficient by watching for changes with watchfiles.
-- [jazzband/django-pipeline](https://github.com/jazzband/django-pipeline) - Pipeline is an asset packaging library for Django.
+- [django-commons/django-pipeline](https://github.com/django-commons/django-pipeline) - Pipeline is an asset packaging library for Django.
 - [cowrie/cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot https://docs.cowrie.org/
 - [adamchainz/django-minify-html](https://github.com/adamchainz/django-minify-html) - Use minify-html, the extremely fast HTML + JS + CSS minifier, with Django.
 - [ramprasathmk/keylogger](https://github.com/ramprasathmk/keylogger) - A simple python based Key-Logger project in Cyber Security
@@ -458,7 +464,7 @@
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [epicserve/django-base-site](https://github.com/epicserve/django-base-site) - The Django Base Site is a Django site that is built using the best Django practices and comes with all the common Django packages that you need to jumpstart your next project.
 - [rsinger86/django-lifecycle](https://github.com/rsinger86/django-lifecycle) - Declarative model lifecycle hooks, an alternative to Signals.
-- [jazzband/django-taggit](https://github.com/jazzband/django-taggit) - Simple tagging for django
+- [django-commons/django-taggit](https://github.com/django-commons/django-taggit) - Simple tagging for django
 - [Koed00/django-q](https://github.com/Koed00/django-q) - A multiprocessing distributed task queue for Django
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [bndr/pipreqs](https://github.com/bndr/pipreqs) - pipreqs - Generate pip requirements.txt file based on imports of any project. Looking for maintainers to move this project forward.
