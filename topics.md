@@ -179,6 +179,7 @@
 - [sql](#sql)
 - [sql-server](#sql-server)
 - [sqlite](#sqlite)
+- [static-site-generator](#static-site-generator)
 - [statistics](#statistics)
 - [support](#support)
 - [svelte](#svelte)
@@ -675,6 +676,7 @@
 
 ## django 
 
+- [codingjoe/threadmill](https://github.com/codingjoe/threadmill) - Durable high-performance backend for Django's task framework.
 - [wemake-services/django-modern-rest](https://github.com/wemake-services/django-modern-rest) - Modern REST framework for Django with types and async support!
 - [labbhq/labb](https://github.com/labbhq/labb) - The reactive UI component library for Django
 - [django-helpdesk/django-helpdesk](https://github.com/django-helpdesk/django-helpdesk) - A Django application to manage tickets for an internal helpdesk. Formerly known as Jutda Helpdesk.
@@ -2014,6 +2016,10 @@
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal. Now with hsql, your agent's favorite sql client.
 - [Archmonger/django-dbbackup](https://github.com/Archmonger/django-dbbackup) - Backup and restore your Django database and media
+
+## static-site-generator 
+
+- [adamghill/coltrane](https://github.com/adamghill/coltrane) - A minimal app framework for content sites.
 
 ## statistics 
 
